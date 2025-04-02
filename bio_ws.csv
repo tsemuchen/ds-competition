@@ -1,0 +1,877 @@
+Name,Position,Height,Weight,Academic Year,Hometown,Previous School,Year,School,From_US_State,Is_Transfer,Age,G,MP,OWS,DWS,WS,WS/40,MPG
+A.J. Hoggard,G,75.0,220.0,Fr.,Pennsylvania,,2020,Michigan_State,True,False,18.0,26.0,344.0,-0.3,0.4,0.1,0.007,13.23076923076923
+Aaron Henry,F,78.0,210.0,Jr.,Indiana,,2020,Michigan_State,True,False,20.0,28.0,910.0,1.5,1.2,2.7,0.119,32.5
+Aaron Wheeler,F,81.0,205.0,Jr.,Connecticut,,2020,Purdue,True,False,20.0,28.0,512.0,0.3,0.9,1.3,0.098,18.285714285714285
+Aaron Wiggins,G,78.0,200.0,Jr.,North Carolina,,2020,Maryland,True,False,20.0,31.0,1023.0,2.1,1.6,3.7,0.145,33.0
+Abdou Tsimbila,F,80.0,235.0,Freshman,Cameroon,,2020,Penn_State,False,False,18.0,16.0,73.0,0.0,0.1,0.2,0.094,4.5625
+Abel Porter,G,75.0,200.0,R-Sr.,Utah,,2020,Ohio_State,True,False,22.0,,,,,,,
+Adam Miller,G,75.0,180.0,Fr.,Illinois,,2020,Illinois,True,False,18.0,31.0,792.0,0.8,1.2,2.0,0.1,25.548387096774192
+Adrien Nunez,G,78.0,210.0,Jr.,New York,,2020,Michigan,True,False,20.0,10.0,34.0,0.0,0.0,0.0,0.049,3.4
+Ahron Ulis,G,75.0,190.0,Fr.,Illinois,,2020,Iowa,True,False,18.0,17.0,119.0,0.4,0.1,0.4,0.142,7.0
+Aidan McCool,G,75.0,160.0,Fr.,South Carolina,,2020,Maryland,True,False,18.0,2.0,3.0,0.0,0.0,0.0,0.649,1.5
+Aiden Terry,G,71.0,150.0,Fr.,Kentucky,,2020,Rutgers,True,False,18.0,1.0,2.0,0.0,0.0,0.0,0.104,2.0
+Akol Arop,F,77.0,203.0,Sophomore,Nebraska,,2020,Nebraska,True,False,19.0,,,,,,,
+Aleem Ford,F,80.0,217.0,R-Sr.,Georgia,,2020,Wisconsin,True,False,22.0,31.0,818.0,1.0,1.2,2.3,0.111,26.387096774193548
+Aljami Durham,G,76.0,185.0,Sr.,Georgia,,2020,Indiana,True,False,21.0,26.0,845.0,1.5,0.7,2.2,0.105,32.5
+Andre Curbelo,G,73.0,175.0,Fr.,Puerto Rico,,2020,Illinois,False,False,18.0,31.0,668.0,1.2,1.3,2.6,0.154,21.548387096774192
+Andy Christos,G,77.0,175.0,Freshman,New Jersey,,2020,Penn_State,True,False,18.0,,,,,,,
+Anthony Gaines,G,76.0,210.0,R-Jr.,New York,,2020,Northwestern,True,False,21.0,24.0,499.0,0.4,0.7,1.1,0.089,20.791666666666668
+Anthony Leal,G,77.0,210.0,Fr.,Indiana,,2020,Indiana,True,False,18.0,20.0,232.0,0.1,0.3,0.3,0.056,11.6
+Aquan Smart,G,75.0,175.0,Fr.,Illinois,,2020,Maryland,True,False,18.0,22.0,160.0,-0.2,0.2,-0.1,-0.013,7.272727272727272
+Armaan Franklin,G,76.0,195.0,So.,Indiana,,2020,Indiana,True,False,19.0,22.0,662.0,0.7,0.9,1.6,0.094,30.09090909090909
+Arnaud Revaz,F,82.0,215.0,Fr.,Switzerland,,2020,Maryland,False,False,18.0,5.0,16.0,-0.1,0.0,0.0,-0.085,3.2
+Austin Ash,G,75.0,179.0,RS Jr.,Iowa,,2020,Iowa,True,False,21.0,9.0,21.0,0.1,0.0,0.1,0.179,2.333333333333333
+Austin Davis,F,82.0,250.0,Gr.,Michigan,,2020,Michigan,True,False,23.0,23.0,257.0,0.8,0.4,1.3,0.196,11.173913043478262
+Austin Hutcherson,G,78.0,180.0,R-Jr.,New York,,2020,Illinois,True,False,21.0,,,,,,,
+Ayo Dosunmu,G,77.0,200.0,Jr.,Illinois,,2020,Illinois,True,False,20.0,28.0,984.0,3.3,1.8,5.1,0.207,35.142857142857146
+Ben Carlson,F,81.0,218.0,Fr.,Minnesota,,2020,Wisconsin,True,False,18.0,7.0,64.0,0.2,0.1,0.3,0.195,9.142857142857142
+Benjamin Bosmans-Verdonk,F,80.0,235.0,R-Fr.,Belgium,,2020,Illinois,False,False,19.0,8.0,18.0,0.0,0.0,0.0,0.0,2.25
+Boo Buie,G,74.0,180.0,So.,New York,,2020,Northwestern,True,False,19.0,24.0,646.0,0.8,0.6,1.4,0.084,26.916666666666668
+Both Gach,G,78.0,185.0,Jr.,Minnesota,Arizona Compass Prep,2020,Minnesota,True,False,20.0,29.0,657.0,0.4,0.7,1.1,0.066,22.655172413793103
+Brad Davison,G,76.0,202.0,Sr.,Minnesota,,2020,Wisconsin,True,False,21.0,31.0,960.0,1.7,1.4,3.1,0.129,30.967741935483872
+Brandon Johns Jr.,F,80.0,240.0,Jr.,Michigan,,2020,Michigan,True,False,20.0,,,,,,,
+Brandon Johnson,F,80.0,220.0,R-Sr.,Illinois,Thea Bowman Leadership Academy,2020,Minnesota,True,False,22.0,28.0,723.0,1.7,0.9,2.6,0.146,25.821428571428573
+Brandon Lieb,C,84.0,210.0,Fr.,Illinois,,2020,Illinois,True,False,18.0,5.0,12.0,-0.1,0.0,0.0,-0.128,2.4
+Brandon Newman,G,77.0,195.0,R-Fr.,Indiana,,2020,Purdue,True,False,19.0,28.0,662.0,0.7,1.0,1.6,0.099,23.642857142857142
+Brandon Wade,G,73.0,185.0,Jr.,Michigan,,2020,Michigan,True,False,20.0,3.0,3.0,0.0,0.0,0.0,0.089,1.0
+Bret Porter,F,77.0,228.0,Redshirt Freshman,Nebraska,,2020,Nebraska,True,False,19.0,7.0,10.0,0.0,0.0,0.0,-0.019,1.4285714285714286
+C.J. Baird,F,77.0,225.0,Sr.,Michigan,,2020,Michigan,True,False,21.0,4.0,11.0,0.0,0.0,0.0,-0.006,2.75
+CJ Fredrick,G,75.0,195.0,RS So.,Ohio,,2020,Iowa,True,False,20.0,27.0,666.0,1.6,0.3,1.9,0.114,24.666666666666668
+CJ Walker,G,73.0,195.0,R-Sr.,Indiana,,2020,Ohio_State,True,False,22.0,27.0,809.0,1.7,0.6,2.3,0.112,29.96296296296296
+Caleb Dorsey,F,79.0,230.0,Freshman,Maryland,,2020,Penn_State,True,False,18.0,5.0,11.0,0.0,0.0,0.0,0.044,2.2
+Caleb McConnell,G,79.0,195.0,Jr.,Florida,,2020,Rutgers,True,False,20.0,20.0,457.0,0.0,0.8,0.8,0.072,22.85
+Carson Barrett,G,77.0,215.0,Fr.,Indiana,,2020,Purdue,True,False,18.0,1.0,2.0,0.0,0.0,0.0,0.244,2.0
+Carter Gilmore,F,79.0,215.0,Fr.,Wisconsin,,2020,Wisconsin,True,False,18.0,9.0,17.0,-0.1,0.0,0.0,-0.072,1.8888888888888888
+Carter Higginbottom,G,72.0,188.0,R-So.,Illinois,,2020,Wisconsin,True,False,20.0,9.0,10.0,-0.1,0.0,-0.1,-0.514,1.1111111111111112
+Chase Audige,G,76.0,200.0,R-So.,New York,,2020,Northwestern,True,False,20.0,24.0,677.0,0.0,1.0,1.0,0.062,28.20833333333333
+Chase Martin,G,75.0,195.0,Fr.,Missouri,,2020,Purdue,True,False,18.0,2.0,5.0,0.0,0.0,0.0,0.015,2.5
+Chaundee Brown Jr.,G,77.0,215.0,Sr.,Florida,,2020,Michigan,True,False,21.0,,,,,,,
+Chol Marial,C,86.0,235.0,So.,South Sudan,,2020,Maryland,False,False,19.0,18.0,112.0,-0.1,0.2,0.1,0.019,6.222222222222222
+Chris McGraw,G,72.0,170.0,Sophomore,Ohio,,2020,Nebraska,True,False,19.0,,,,,,,
+Clifford Omoruyi,C,83.0,240.0,Fr.,Nigeria,,2020,Rutgers,False,False,18.0,23.0,343.0,0.5,0.6,1.2,0.136,14.91304347826087
+Coleman Hawkins,F,82.0,215.0,Fr.,California,,2020,Illinois,True,False,18.0,25.0,157.0,0.2,0.3,0.5,0.123,6.28
+Connor McCaffery,G/F,77.0,205.0,RS Jr.,Iowa,,2020,Iowa,True,False,21.0,31.0,706.0,0.8,0.7,1.4,0.082,22.774193548387096
+Connor Serven,F,81.0,215.0,Fr.,Illinois,,2020,Illinois,True,False,18.0,7.0,13.0,0.0,0.0,0.0,0.062,1.8571428571428568
+Cooper Bybee,G,73.0,188.0,Sr.,Indiana,Olney Central,2020,Indiana,True,False,21.0,2.0,2.0,0.0,0.0,0.0,0.325,1.0
+D'Mitrik Trice,G,72.0,184.0,R-Sr.,Ohio,,2020,Wisconsin,True,False,22.0,31.0,1032.0,2.3,1.3,3.6,0.14,33.29032258064516
+DJ Gordon,G,77.0,175.0,Freshman,Pennsylvania,,2020,Penn_State,True,False,18.0,6.0,21.0,-0.1,0.0,-0.1,-0.243,3.5
+Da'Monte Williams,G,75.0,215.0,Sr.,Illinois,,2020,Illinois,True,False,21.0,31.0,772.0,1.8,1.5,3.3,0.171,24.90322580645161
+Dalano Banton,G,81.0,204.0,Sophomore,Ontario,,2020,Nebraska,False,False,19.0,27.0,736.0,0.6,1.1,1.7,0.093,27.25925925925926
+Dallion Johnson,G,75.0,175.0,Freshman,Massachusetts,,2020,Penn_State,True,False,18.0,8.0,14.0,0.0,0.0,0.0,0.045,1.75
+Daniel Lobach,F,79.0,210.0,Fr.,North Carolina,,2020,Rutgers,True,False,18.0,2.0,1.0,0.0,0.0,0.0,0.009,0.5
+Darryl Morsell,G,77.0,200.0,Sr.,Maryland,,2020,Maryland,True,False,21.0,30.0,883.0,0.9,1.2,2.1,0.095,29.433333333333334
+Davis Smith,G,73.0,185.0,Fr.,Georgia,,2020,Michigan_State,True,False,18.0,7.0,10.0,0.0,0.0,0.0,-0.049,1.4285714285714286
+Dean Reiber,F,82.0,225.0,Fr.,North Carolina,,2020,Rutgers,True,False,18.0,13.0,76.0,-0.1,0.1,0.1,0.029,5.846153846153846
+Derrick Walker,F,80.0,232.0,Junior,Missouri,,2020,Nebraska,True,False,20.0,16.0,331.0,0.3,0.5,0.8,0.099,20.6875
+Dom Martinelli,G,76.0,200.0,Fy.,Illinois,,2020,Northwestern,True,False,18.0,4.0,9.0,0.1,0.0,0.1,0.63,2.25
+Donta Scott,F,79.0,230.0,So.,Pennsylvania,,2020,Maryland,True,False,19.0,31.0,940.0,2.3,1.5,3.7,0.159,30.32258064516129
+Duane Jr.,G,75.0,210.0,Sr.,Michigan,,2020,Ohio_State,True,False,21.0,,,,,,,
+Dylan Sandhu,G,76.0,165.0,R-So.,Michigan,,2020,Northwestern,True,False,20.0,3.0,3.0,0.0,0.0,0.0,-0.2,1.0
+E.J. Liddell,F,79.0,240.0,Jr.,Illinois,West,2020,Ohio_State,True,False,20.0,29.0,854.0,3.2,1.0,4.2,0.198,29.448275862068964
+Edgar Padilla Jr.,G,73.0,165.0,Fr.,Puerto Rico,,2020,Illinois,False,False,18.0,,,,,,,
+Eduardo Andre,C,82.0,228.0,Freshman,England,,2020,Nebraska,False,False,18.0,20.0,176.0,0.3,0.3,0.5,0.124,8.8
+Eli Brooks,G,73.0,185.0,Sr.,Pennsylvania,,2020,Michigan,True,False,21.0,27.0,839.0,1.9,1.3,3.2,0.154,31.074074074074076
+Elijah Wood,G,77.0,174.0,Freshman,Maryland,,2020,Nebraska,True,False,18.0,13.0,40.0,-0.1,0.1,0.0,-0.033,3.076923076923077
+Emmanuel Dowuona,C,82.0,245.0,So.,Florida,,2020,Purdue,True,False,19.0,,,,,,,
+Eric Ayala,G,77.0,200.0,Jr.,Delaware,,2020,Maryland,True,False,20.0,29.0,975.0,2.5,1.3,3.8,0.158,33.62068965517241
+Eric Curry,F,81.0,240.0,R-Sr.,Tennessee,Southwest Christian Academy,2020,Minnesota,True,False,22.0,29.0,458.0,0.3,0.6,0.9,0.076,15.79310344827586
+Eric Hunter Jr.,G,76.0,170.0,Jr.,Indiana,,2020,Purdue,True,False,20.0,,,,,,,
+Eric Zalewski,G,72.0,185.0,R-Jr.,Illinois,,2020,Northwestern,True,False,21.0,7.0,10.0,0.0,0.0,0.0,0.042,1.4285714285714286
+Ethan Morton,G,78.0,215.0,Fr.,Pennsylvania,,2020,Purdue,True,False,18.0,23.0,200.0,-0.2,0.2,0.0,-0.002,8.695652173913043
+Eugene III,G,79.0,195.0,Jr.,Georgia,,2020,Ohio_State,True,False,20.0,,,,,,,
+Foster Loyer,G,72.0,175.0,Jr.,Michigan,,2020,Michigan_State,True,False,20.0,19.0,316.0,0.5,0.2,0.7,0.092,16.63157894736842
+Franz Wagner,G,81.0,220.0,So.,Germany,,2020,Michigan,False,False,19.0,28.0,887.0,2.7,2.0,4.7,0.21,31.678571428571427
+Gabe Brown,F,80.0,210.0,Jr.,Michigan,,2020,Michigan_State,True,False,20.0,25.0,517.0,1.0,0.4,1.5,0.114,20.68
+Gabe Kalscheur,G,76.0,200.0,Jr.,Minnesota,DeLaSalle,2020,Minnesota,True,False,20.0,21.0,645.0,0.4,0.4,0.8,0.049,30.714285714285715
+Galin Smith,F,81.0,235.0,Sr.,Mississippi,,2020,Maryland,True,False,21.0,31.0,421.0,0.2,0.5,0.7,0.064,13.580645161290322
+Geo Baker,G,76.0,195.0,Sr.,New Hampshire,,2020,Rutgers,True,False,21.0,25.0,780.0,0.8,1.0,1.8,0.093,31.2
+Giorgi Bezhanishvili,F,81.0,245.0,Jr.,Georgia,,2020,Illinois,True,False,20.0,31.0,449.0,0.8,0.7,1.5,0.135,14.483870967741936
+Hakim Hart,G,78.0,205.0,So.,Pennsylvania,,2020,Maryland,True,False,19.0,31.0,790.0,1.5,1.0,2.5,0.127,25.483870967741936
+Harrison Hookfin,F,78.0,195.0,So.,Ohio,,2020,Ohio_State,True,False,19.0,4.0,12.0,0.0,0.0,0.0,0.08,3.0
+Hunt Conroy,G,70.0,165.0,Sr.,Louisiana,Jesuit,2020,Minnesota,True,False,21.0,3.0,4.0,0.0,0.0,0.0,0.045,1.3333333333333333
+Hunter Dickinson,C,85.0,255.0,Fr.,Virginia,,2020,Michigan,True,False,18.0,28.0,727.0,2.3,1.5,3.8,0.209,25.964285714285715
+Ibrahima Diallo,C,82.0,220.0,So.,Senegal,Prolific Prep,2020,Ohio_State,False,False,19.0,5.0,10.0,0.0,0.0,0.0,-0.02,2.0
+Isaiah Ihnen,F,81.0,220.0,So.,Germany,IBA Munich,2020,Minnesota,False,False,19.0,29.0,414.0,0.3,0.6,0.8,0.081,14.275862068965518
+Isaiah Livers,F,79.0,230.0,Sr.,Michigan,,2020,Michigan,True,False,21.0,23.0,727.0,2.3,1.3,3.6,0.196,31.608695652173918
+Isaiah Thompson,G,73.0,160.0,So.,Indiana,,2020,Purdue,True,False,19.0,28.0,497.0,0.9,0.4,1.3,0.101,17.75
+Izaiah Brockington,G,76.0,200.0,Junior,Pennsylvania,,2020,Penn_State,True,False,20.0,25.0,743.0,1.2,0.6,1.9,0.101,29.72
+Jace Howard,G,79.0,210.0,Fr.,Florida,,2020,Michigan,True,False,18.0,11.0,34.0,0.0,0.0,0.0,0.029,3.090909090909091
+Jace Piatkowski,G,75.0,184.0,Redshirt Freshman,Nebraska,,2020,Nebraska,True,False,19.0,10.0,18.0,0.0,0.0,0.0,0.059,1.8
+Jack Hoiberg,G,71.0,175.0,R-Jr.,Illinois,,2020,Michigan_State,True,False,21.0,14.0,44.0,-0.1,0.0,-0.1,-0.102,3.142857142857143
+Jack Nunge,F,83.0,245.0,RS So.,Indiana,,2020,Iowa,True,False,20.0,22.0,349.0,1.2,0.5,1.7,0.198,15.863636363636363
+Jacob Grandison,G/F,78.0,205.0,R-Jr.,California,,2020,Illinois,True,False,21.0,30.0,458.0,1.2,0.9,2.1,0.184,15.266666666666667
+Jacob Young,G,74.0,185.0,Sr.,Texas,,2020,Rutgers,True,False,21.0,28.0,844.0,1.1,1.1,2.2,0.102,30.142857142857142
+Jade Brahmbhatt,G,72.0,160.0,Jr.,Maryland,,2020,Maryland,True,False,20.0,1.0,2.0,0.0,0.0,0.0,0.349,2.0
+Jaden Ivey,G,76.0,200.0,Fr.,Indiana,,2020,Purdue,True,False,18.0,23.0,557.0,1.1,0.8,1.9,0.136,24.217391304347824
+Jaden Jones,G,80.0,195.0,Fr.,Texas,,2020,Rutgers,True,False,18.0,4.0,11.0,0.0,0.0,0.0,0.01,2.75
+Jairus Hamilton,F,80.0,235.0,Jr.,North Carolina,,2020,Maryland,True,False,20.0,31.0,635.0,1.0,0.7,1.6,0.104,20.483870967741936
+"Jamal Mashburn, Jr.",G,74.0,175.0,Fr.,Florida,Brewster Academy,2020,Minnesota,True,False,18.0,,,,,,,
+Jamari Wheeler,G,73.0,170.0,Senior,Florida,,2020,Penn_State,True,False,21.0,25.0,781.0,0.8,0.8,1.6,0.083,31.24
+James Graham III,G,80.0,205.0,Fr.,Wisconsin,,2020,Maryland,True,False,18.0,,,,,,,
+Jansen Jr.,G,71.0,190.0,Gr.,Ohio,,2020,Ohio_State,True,False,23.0,,,,,,,
+Jared Wulbrun,G,70.0,170.0,Jr.,California,,2020,Purdue,True,False,20.0,2.0,5.0,0.0,0.0,0.0,0.352,2.5
+Jaron Faulds,F,82.0,240.0,Sr.,Michigan,,2020,Michigan,True,False,21.0,10.0,27.0,0.0,0.0,0.0,-0.021,2.7
+Jarvis Omersa,F,78.0,235.0,Jr.,Minnesota,Orono,2020,Minnesota,True,False,20.0,7.0,69.0,0.1,0.2,0.3,0.17,9.857142857142858
+Jermaine Hamlin,C,82.0,235.0,So.,Illinois,,2020,Illinois,True,False,19.0,8.0,24.0,0.0,0.0,0.1,0.117,3.0
+Jerome Hunter,F,79.0,215.0,R-So.,Ohio,,2020,Indiana,True,False,20.0,25.0,489.0,0.4,0.5,0.9,0.074,19.56
+Jimmy Sotos,G,75.0,200.0,Gr.,Illinois,,2020,Ohio_State,True,False,23.0,12.0,115.0,0.1,0.1,0.2,0.065,9.583333333333334
+Joe Hedstrom,C,84.0,247.0,R-So.,Minnesota,,2020,Wisconsin,True,False,20.0,9.0,15.0,0.0,0.0,0.0,0.098,1.6666666666666667
+Joe Toussaint,G,72.0,190.0,So.,New York,,2020,Iowa,True,False,19.0,31.0,350.0,0.2,0.5,0.7,0.077,11.290322580645162
+Joe Wieskamp,G/F,78.0,212.0,Jr.,Iowa,,2020,Iowa,True,False,20.0,31.0,907.0,2.9,1.2,4.1,0.181,29.258064516129032
+Joey Brunk,C,83.0,255.0,R-Sr.,Indiana,Butler,2020,Indiana,True,False,22.0,,,,,,,
+Joey Hauser,F,81.0,220.0,R-Jr.,Wisconsin,,2020,Michigan_State,True,False,21.0,28.0,601.0,1.1,0.7,1.9,0.124,21.464285714285715
+John Harrar,F,81.0,240.0,Senior,Pennsylvania,,2020,Penn_State,True,False,21.0,25.0,619.0,2.0,0.7,2.6,0.17,24.76
+Johnny Davis,G,77.0,196.0,Fr.,Wisconsin,,2020,Wisconsin,True,False,18.0,31.0,753.0,0.7,1.4,2.1,0.112,24.29032258064516
+Jordan Bohannon,G,73.0,175.0,RS Sr.,Iowa,,2020,Iowa,True,False,22.0,31.0,905.0,2.4,0.6,3.1,0.137,29.193548387096776
+Jordan Davis,G,76.0,202.0,Fr.,Wisconsin,,2020,Wisconsin,True,False,18.0,13.0,19.0,0.0,0.0,0.0,0.081,1.4615384615384617
+Jordan Geronimo,F,78.0,220.0,Fr.,New Jersey,,2020,Indiana,True,False,18.0,21.0,170.0,0.1,0.2,0.3,0.075,8.095238095238095
+Josh Ogundele,F,82.0,285.0,Fr.,England,,2020,Iowa,False,False,18.0,8.0,17.0,0.1,0.0,0.1,0.198,2.125
+Joshua Langford,G,77.0,200.0,Gr.,Alabama,,2020,Michigan_State,True,False,23.0,27.0,757.0,0.7,0.6,1.3,0.066,28.03703703703704
+Julius Marble II,F,80.0,225.0,So.,Texas,,2020,Michigan_State,True,False,19.0,,,,,,,
+Justice Sueing,F,78.0,210.0,R-Sr.,Hawaii,,2020,Ohio_State,True,False,22.0,31.0,878.0,2.1,0.9,3.0,0.139,28.32258064516129
+Justin Ahrens,F,78.0,195.0,Sr.,,,2020,Ohio_State,False,False,21.0,31.0,567.0,1.2,0.4,1.7,0.118,18.29032258064516
+Justin Taphorn,G,77.0,198.0,Fr.,Illinois,,2020,Wisconsin,True,False,18.0,6.0,8.0,0.0,0.0,0.0,-0.218,1.3333333333333333
+Keegan Murray,F,80.0,215.0,Fr.,Iowa,,2020,Iowa,True,False,18.0,31.0,558.0,1.6,1.1,2.7,0.192,18.0
+Khristian Lander,G,74.0,185.0,Fr.,Indiana,,2020,Indiana,True,False,18.0,26.0,262.0,-0.5,0.3,-0.2,-0.032,10.076923076923077
+Kobe Webster,G,72.0,172.0,Senior,Indiana,,2020,Nebraska,True,False,21.0,27.0,625.0,0.5,0.4,0.9,0.059,23.14814814814815
+Kofi Cockburn,C,84.0,285.0,So.,Jamaica,,2020,Illinois,False,False,19.0,31.0,837.0,3.7,1.8,5.5,0.261,27.0
+Kris Murray,F,80.0,215.0,Fr.,Iowa,,2020,Iowa,True,False,18.0,13.0,42.0,-0.1,0.0,0.0,-0.02,3.230769230769231
+Kyle McCloskey,G,77.0,212.0,Junior,Pennsylvania,,2020,Penn_State,True,False,20.0,8.0,32.0,0.0,0.1,0.0,0.045,4.0
+Kyle Young,F,80.0,225.0,Gr.,Ohio,,2020,Ohio_State,True,False,23.0,27.0,710.0,2.4,0.7,3.1,0.175,26.296296296296298
+Lat Mayen,F,81.0,205.0,Junior,Australia,,2020,Nebraska,False,False,20.0,27.0,691.0,0.3,0.7,1.1,0.061,25.59259259259259
+Liam Robbins,C,84.0,235.0,Jr.,Iowa,Assumption HS,2020,Minnesota,True,False,20.0,23.0,568.0,1.2,1.0,2.2,0.156,24.695652173913043
+Lorne Bowman II,G,74.0,180.0,Fr.,Michigan,,2020,Wisconsin,True,False,18.0,,,,,,,
+Luka Garza,C,83.0,265.0,Sr.,D.C.,,2020,Iowa,True,False,21.0,31.0,975.0,5.5,1.4,6.9,0.282,31.451612903225808
+Luke Nathan,F,83.0,235.0,Jr.,New Jersey,,2020,Rutgers,True,False,20.0,2.0,4.0,0.0,0.0,0.0,-0.362,2.0
+Luke Wilson,G,72.0,175.0,Sr.,Colorado,,2020,Michigan,True,False,21.0,2.0,5.0,0.0,0.0,0.0,0.112,2.5
+Mady Sissoko,C,81.0,235.0,Fr.,Mali,,2020,Michigan_State,False,False,18.0,25.0,136.0,0.1,0.2,0.3,0.097,5.44
+Malik Hall,F,79.0,225.0,So.,Illinois,,2020,Michigan_State,True,False,19.0,28.0,491.0,1.0,0.5,1.5,0.122,17.535714285714285
+Mamadou Doucoure,F,81.0,250.0,Jr.,Mali,,2020,Rutgers,False,False,20.0,11.0,61.0,0.1,0.1,0.2,0.139,5.545454545454546
+Marcus Bingham Jr.,F,83.0,225.0,Jr.,Michigan,,2020,Michigan_State,True,False,20.0,,,,,,,
+Marcus Carr,G,74.0,195.0,R-Jr.,Ontario,Montverde Academy,2020,Minnesota,False,False,21.0,29.0,1038.0,2.9,0.9,3.8,0.146,35.793103448275865
+Marcus Dockery,G,74.0,180.0,Fr.,D.C.,,2020,Maryland,True,False,18.0,14.0,51.0,0.2,0.0,0.2,0.179,3.642857142857143
+Martice Mitchell,F,82.0,200.0,Fr.,Illinois,Bloom,2020,Minnesota,True,False,18.0,7.0,23.0,0.1,0.0,0.1,0.162,3.2857142857142856
+Mason Gillis,F,78.0,230.0,R-Fr.,Indiana,,2020,Purdue,True,False,19.0,28.0,622.0,1.2,0.7,1.9,0.122,22.214285714285715
+Matt Frost,F,77.0,200.0,So.,Indiana,,2020,Purdue,True,False,19.0,2.0,5.0,0.1,0.0,0.1,0.505,2.5
+Matthew Nicholson,C,84.0,255.0,Fy.,Michigan,,2020,Northwestern,True,False,18.0,9.0,23.0,0.0,0.0,0.0,0.026,2.555555555555556
+Mawot Mag,F,79.0,215.0,Fr.,Australia,,2020,Rutgers,False,False,18.0,12.0,70.0,0.1,0.1,0.2,0.117,5.833333333333333
+Meechie Jr.,G,74.0,172.0,Fr.,Ohio,Garfield Heights,2020,Ohio_State,True,False,18.0,,,,,,,
+Micah Potter,F,82.0,248.0,R-Sr.,Ohio,,2020,Wisconsin,True,False,22.0,31.0,687.0,2.8,1.3,4.0,0.234,22.161290322580644
+Michael Baer,F,79.0,215.0,RS Jr.,Iowa,,2020,Iowa,True,False,21.0,7.0,10.0,0.0,0.0,0.0,0.185,1.4285714285714286
+Michael Shipp,G,75.0,190.0,So.,Ohio,,2020,Indiana,True,False,19.0,2.0,2.0,0.0,0.0,0.0,-0.38,1.0
+Mike Smith,G,71.0,185.0,Gr.,Illinois,,2020,Michigan,True,False,23.0,28.0,886.0,1.7,1.1,2.8,0.125,31.642857142857142
+Miller Kopp,F,79.0,215.0,Jr.,Texas,,2020,Northwestern,True,False,20.0,24.0,756.0,0.7,0.8,1.5,0.08,31.5
+Montez Mathis,G,76.0,210.0,Jr.,Maryland,,2020,Rutgers,True,False,20.0,28.0,593.0,0.3,0.7,1.0,0.065,21.178571428571427
+Musa Jallow,G,77.0,210.0,R-Jr.,Indiana,North,2020,Ohio_State,True,False,21.0,26.0,406.0,0.3,0.4,0.7,0.069,15.615384615384617
+Myles Dread,G,76.0,220.0,Junior,Michigan,,2020,Penn_State,True,False,20.0,23.0,558.0,0.7,0.3,1.0,0.074,24.26086956521739
+Myles Johnson,C,83.0,255.0,Jr.,California,,2020,Rutgers,True,False,20.0,28.0,692.0,1.5,1.7,3.3,0.19,24.714285714285715
+Myreon Jones,G,75.0,180.0,Junior,Alabama,,2020,Penn_State,True,False,20.0,25.0,757.0,2.1,0.5,2.6,0.14,30.28
+Nate Reuvers,F,83.0,235.0,Sr.,Minnesota,,2020,Wisconsin,True,False,21.0,31.0,651.0,0.6,1.0,1.7,0.102,21.0
+Nathan Childress,F,78.0,212.0,So.,Indiana,,2020,Indiana,True,False,19.0,4.0,5.0,0.0,0.0,0.0,0.186,1.25
+Nick Brooks,G,73.0,185.0,Sr.,New Jersey,,2020,Rutgers,True,False,21.0,3.0,5.0,0.0,0.0,0.0,0.135,1.6666666666666667
+Oskar Palmquist,F,80.0,220.0,Fr.,Sweden,,2020,Rutgers,False,False,18.0,12.0,60.0,-0.1,0.1,0.0,-0.03,5.0
+Parker Stewart,G,77.0,200.0,R-Jr.,Tennessee,UT-Martin/Pitt,2020,Indiana,True,False,21.0,,,,,,,
+Patrick Kelly,F,80.0,215.0,Redshirt Freshman,North Carolina,,2020,Penn_State,True,False,19.0,5.0,11.0,0.0,0.0,0.0,-0.064,2.2
+Patrick McCaffery,F,81.0,200.0,RS Fr.,Iowa,,2020,Iowa,True,False,,31.0,452.0,1.0,0.5,1.5,0.131,14.580645161290322
+Paul Mulcahy,G,78.0,210.0,So.,New Jersey,,2020,Rutgers,True,False,19.0,28.0,763.0,1.0,0.8,1.8,0.094,27.25
+Pete Nance,F,82.0,225.0,Jr.,Ohio,,2020,Northwestern,True,False,20.0,24.0,665.0,1.3,1.1,2.4,0.142,27.70833333333333
+Race Thompson,F,80.0,228.0,R-Jr.,Minnesota,,2020,Indiana,True,False,21.0,27.0,760.0,1.6,1.3,2.9,0.15,28.14814814814815
+Reese Mona,G,74.0,185.0,Sr.,Maryland,,2020,Maryland,True,False,21.0,25.0,153.0,0.1,0.1,0.2,0.054,6.12
+Rico Ozuna-Harrison,G,71.0,175.0,Sr.,Michigan,,2020,Michigan,True,False,21.0,1.0,3.0,-0.1,0.0,-0.1,-0.81,3.0
+Rob Phinisee,G,73.0,187.0,Jr.,Indiana,,2020,Indiana,True,False,20.0,27.0,731.0,0.1,0.8,0.9,0.05,27.074074074074076
+Robbie Beran,F,81.0,215.0,So.,Virginia,,2020,Northwestern,True,False,19.0,24.0,484.0,0.7,0.5,1.2,0.101,20.166666666666668
+Rocket Watts,G,74.0,185.0,So.,Michigan,,2020,Michigan_State,True,False,19.0,28.0,634.0,-0.1,0.3,0.2,0.011,22.642857142857142
+Ron Harper Jr.,G,78.0,245.0,Jr.,New Jersey,,2020,Rutgers,True,False,20.0,,,,,,,
+Roy Dixon III,G,71.0,170.0,So.,Georgia,,2020,Northwestern,True,False,19.0,,,,,,,
+Ryan Greer,G,74.0,190.0,Jr.,Georgia,,2020,Northwestern,True,False,20.0,23.0,300.0,0.4,0.3,0.7,0.097,13.043478260869565
+Ryan Young,C,82.0,245.0,R-So.,New Jersey,,2020,Northwestern,True,False,20.0,24.0,454.0,1.2,0.6,1.9,0.167,18.916666666666668
+Sam Freeman,C,82.0,240.0,So.,Texas,Northwest,2020,Minnesota,True,False,19.0,18.0,124.0,0.0,0.1,0.1,0.044,6.888888888888889
+Sam Sessoms,G,72.0,187.0,Junior,Pennsylvania,Binghamton,2020,Penn_State,True,False,20.0,24.0,497.0,0.3,0.5,0.8,0.065,20.70833333333333
+Sasha Stefanovic,G,77.0,200.0,Jr.,Indiana,,2020,Purdue,True,False,20.0,25.0,735.0,1.9,0.8,2.7,0.147,29.4
+Sebastien Scott,G,74.0,185.0,Fr.,California,,2020,Indiana,True,False,18.0,,,,,,,
+Seth Lundy,F,78.0,219.0,Sophomore,New Jersey,,2020,Penn_State,True,False,19.0,25.0,595.0,0.9,0.6,1.4,0.095,23.8
+Seth Towns,F,81.0,230.0,Gr.,Ohio,,2020,Ohio_State,True,False,23.0,25.0,271.0,0.6,0.3,0.9,0.128,10.84
+Shamiel Stevenson,G,78.0,245.0,Junior,Ontario,Nevada/Pitt,2020,Nebraska,False,False,20.0,26.0,373.0,0.0,0.5,0.5,0.055,14.346153846153848
+Steven Crowl,F,84.0,217.0,Fr.,Minnesota,,2020,Wisconsin,True,False,18.0,12.0,39.0,0.0,0.1,0.1,0.066,3.25
+Steven Izzo,G,68.0,150.0,So.,Michigan,,2020,Michigan_State,True,False,19.0,8.0,11.0,-0.1,0.0,-0.1,-0.406,1.375
+Taylor Nussbaum,G,74.0,175.0,Senior,New York,,2020,Penn_State,True,False,21.0,3.0,5.0,0.0,0.0,0.0,-0.139,1.6666666666666667
+Teddy Allen,G,78.0,223.0,Junior,Arizona,,2020,Nebraska,True,False,20.0,22.0,598.0,1.0,0.7,1.7,0.117,27.181818181818183
+Terrance Williams II,F,79.0,240.0,Fr.,Maryland,,2020,Michigan,True,False,18.0,,,,,,,
+Thomas Kithier,F,80.0,230.0,Jr.,Michigan,,2020,Michigan_State,True,False,20.0,26.0,281.0,0.6,0.2,0.9,0.126,10.807692307692308
+Thorir Thorbjarnarson,G,78.0,202.0,Senior,Iceland,,2020,Nebraska,False,False,21.0,27.0,598.0,0.1,0.6,0.8,0.051,22.14814814814815
+Tony Perkins,G,76.0,210.0,Fr.,Indiana,,2020,Iowa,True,False,18.0,24.0,147.0,0.3,0.2,0.5,0.135,6.125
+Trayce Jackson-Davis,F,81.0,245.0,So.,Indiana,,2020,Indiana,True,False,19.0,27.0,925.0,2.9,1.4,4.3,0.187,34.25925925925926
+Tre' Williams,G,77.0,200.0,So.,Texas,Wasatch Academy,2020,Minnesota,True,False,19.0,27.0,502.0,0.0,0.5,0.5,0.043,18.59259259259259
+Trent Buttrick,F,80.0,240.0,Senior,Pennsylvania,,2020,Penn_State,True,False,21.0,25.0,333.0,0.2,0.4,0.6,0.073,13.32
+Trent Frazier,G,74.0,175.0,Sr.,Florida,,2020,Illinois,True,False,21.0,31.0,1044.0,1.8,1.7,3.5,0.135,33.67741935483871
+Trevion Williams,F,82.0,265.0,Jr.,Illinois,,2020,Purdue,True,False,20.0,28.0,703.0,2.1,1.3,3.4,0.194,25.107142857142858
+Trevor Anderson,G,75.0,195.0,R-Sr.,Wisconsin,,2020,Wisconsin,True,False,22.0,29.0,411.0,0.8,0.4,1.3,0.124,14.172413793103448
+Trevor Lakes,F,79.0,215.0,Senior,Indiana,,2020,Nebraska,True,False,21.0,14.0,135.0,0.2,0.1,0.3,0.087,9.642857142857142
+Trey Galloway,G,76.0,210.0,Fr.,Indiana,,2020,Indiana,True,False,18.0,25.0,490.0,0.1,0.4,0.6,0.046,19.6
+Trey McGowens,G,76.0,191.0,Junior,South Carolina,,2020,Nebraska,True,False,20.0,27.0,766.0,0.3,1.0,1.2,0.063,28.37037037037037
+Ty Berry,G,75.0,190.0,Fy.,Kansas,,2020,Northwestern,True,False,18.0,22.0,318.0,0.5,0.5,0.9,0.116,14.454545454545457
+Tyler Underwood,G,74.0,180.0,Gr.,Illinois,,2020,Illinois,True,False,23.0,7.0,16.0,0.0,0.0,0.0,0.097,2.2857142857142856
+Tyler Wahl,F,81.0,220.0,So.,Minnesota,,2020,Wisconsin,True,False,19.0,31.0,765.0,0.7,1.4,2.1,0.109,24.677419354838708
+Walt McGrory,G,75.0,205.0,Sr.,Minnesota,,2020,Wisconsin,True,False,21.0,1.0,1.0,0.0,0.0,0.0,0.037,1.0
+Yvan Ouedraogo,F,81.0,245.0,Sophomore,France,,2020,Nebraska,False,False,19.0,22.0,328.0,0.2,0.4,0.6,0.071,14.909090909090908
+Zach Edey,C,88.0,185.0,Fr.,Ontario,,2020,Purdue,False,False,18.0,28.0,411.0,1.5,0.8,2.2,0.219,14.678571428571429
+Zach Griffith,F,78.0,220.0,Sr.,Illinois,,2020,Illinois,True,False,21.0,7.0,22.0,0.0,0.0,0.1,0.11,3.142857142857143
+Zeb Jackson,G,77.0,180.0,Fr.,Ohio,,2020,Michigan,True,False,18.0,16.0,85.0,-0.2,0.1,-0.1,-0.06,5.3125
+Zed Key,F,80.0,255.0,Jr.,New York,,2020,Ohio_State,True,False,20.0,31.0,362.0,1.2,0.4,1.6,0.175,11.67741935483871
+A.J. Hoggard,G,76.0,210.0,So.,Pennsylvania,,2021,Michigan_State,True,False,19.0,36.0,728.0,1.1,0.8,1.9,0.107,20.22222222222222
+Abdoulaye Thiam,G,75.0,180.0,Fr.,Florida,Dr. Phillips,2021,Minnesota,True,False,18.0,15.0,49.0,-0.2,0.0,-0.1,-0.111,3.2666666666666666
+Adrien Nunez,G,78.0,220.0,Sr.,New York,,2021,Michigan,True,False,21.0,10.0,31.0,0.0,0.0,0.0,0.018,3.1
+Ahron Ulis,G,75.0,190.0,So.,Illinois,,2021,Iowa,True,False,19.0,35.0,485.0,0.5,0.6,1.1,0.087,13.857142857142858
+Aidan McCool,G,75.0,165.0,So.,South Carolina,,2021,Maryland,True,False,19.0,3.0,5.0,0.0,0.0,0.0,0.373,1.6666666666666667
+Aiden Terry,G,70.0,160.0,So.,Kentucky,,2021,Rutgers,True,False,19.0,3.0,5.0,-0.1,0.0,-0.1,-0.414,1.6666666666666667
+Alfonso Plummer,G,73.0,180.0,Gr.,Puerto Rico,,2021,Illinois,False,True,23.0,33.0,995.0,2.8,1.0,3.7,0.15,30.151515151515152
+Alonzo Verge Jr.,G,75.0,164.0,Senior,Illinois,,2021,Nebraska,True,True,21.0,,,,,,,
+Andre Curbelo,G,73.0,175.0,So.,Puerto Rico,,2021,Illinois,False,False,19.0,19.0,367.0,-0.4,0.6,0.2,0.025,19.31578947368421
+Andrew Fulin,F,78.0,195.0,Jr.,New Jersey,,2021,Rutgers,True,False,20.0,,,,,,,
+Andy Christos,G,77.0,179.0,Sophomore,New Jersey,,2021,Penn_State,True,False,19.0,4.0,9.0,0.0,0.0,0.0,-0.061,2.25
+Anthony Leal,G,77.0,205.0,So.,Indiana,,2021,Indiana,True,False,19.0,17.0,173.0,0.2,0.2,0.4,0.102,10.176470588235292
+Arnaud Revaz,F,82.0,230.0,So.,Switzerland,,2021,Maryland,False,False,19.0,2.0,3.0,0.0,0.0,0.0,-0.006,1.5
+Aundre Hyatt,F,78.0,227.0,So.,New York,,2021,Rutgers,True,True,19.0,32.0,408.0,0.2,0.5,0.7,0.066,12.75
+Austin Ash,G,75.0,180.0,RS Sr.,Iowa,,2021,Iowa,True,False,22.0,18.0,79.0,0.3,0.0,0.4,0.191,4.388888888888889
+Austin Hutcherson,G,78.0,190.0,Gr.,New York,,2021,Illinois,True,False,23.0,4.0,61.0,-0.1,0.1,0.0,0.021,15.25
+Ben Carlson,F,81.0,226.0,So.,Minnesota,,2021,Wisconsin,True,False,19.0,32.0,292.0,-0.1,0.4,0.2,0.033,9.125
+Benjamin Bosmans-Verdonk,F,80.0,235.0,R-So.,Belgium,,2021,Illinois,False,False,20.0,24.0,187.0,0.3,0.3,0.6,0.138,7.791666666666667
+Boo Buie,G,74.0,180.0,Jr.,New York,,2021,Northwestern,True,False,20.0,31.0,914.0,2.0,0.9,2.8,0.124,29.483870967741936
+Brad Davison,G,76.0,200.0,Sr.,Minnesota,,2021,Wisconsin,True,False,21.0,33.0,1136.0,2.9,1.5,4.4,0.154,34.42424242424242
+Brandin Podziemski,G,77.0,200.0,Fr.,Wisconsin,,2021,Illinois,True,False,18.0,16.0,69.0,0.1,0.1,0.2,0.112,4.3125
+Brandon Johns Jr.,F,80.0,240.0,Sr.,Michigan,,2021,Michigan,True,False,21.0,,,,,,,
+Brandon Lieb,C,84.0,220.0,So.,Illinois,,2021,Illinois,True,False,19.0,10.0,24.0,0.1,0.0,0.1,0.187,2.4
+Brandon Newman,G,77.0,200.0,So.,Indiana,,2021,Purdue,True,False,19.0,25.0,315.0,0.4,0.4,0.8,0.104,12.6
+Brandon Wade,G,73.0,190.0,Sr.,Michigan,,2021,Michigan,True,False,21.0,,,,,,,
+Brett Karkus,G,76.0,185.0,Fr.,New York,,2021,Maryland,True,False,18.0,2.0,3.0,0.0,0.0,0.0,-0.252,1.5
+Brian Waddell,F,79.0,185.0,Fr.,Indiana,,2021,Purdue,True,False,18.0,,,,,,,
+Brooks Barnhizer,G,78.0,215.0,Fy.,Indiana,,2021,Northwestern,True,False,18.0,11.0,82.0,0.0,0.1,0.1,0.051,7.454545454545454
+Bryce McGowens,G,79.0,179.0,Freshman,South Carolina,,2021,Nebraska,True,False,18.0,31.0,1032.0,1.6,0.6,2.2,0.086,33.29032258064516
+C.J. Wilcher,G,77.0,221.0,Freshman,New Jersey,Xavier,2021,Nebraska,True,False,18.0,32.0,788.0,1.1,0.3,1.4,0.07,24.625
+Caleb Dorsey,F,79.0,235.0,Sophomore,Maryland,,2021,Penn_State,True,False,19.0,12.0,70.0,0.0,0.1,0.1,0.043,5.833333333333333
+Caleb Furst,F,82.0,230.0,Fr.,Indiana,,2021,Purdue,True,False,18.0,34.0,498.0,1.2,0.5,1.8,0.143,14.647058823529411
+Caleb Houstan,G/F,80.0,205.0,Fr.,Ontario,,2021,Michigan,False,False,18.0,34.0,1088.0,1.4,0.9,2.3,0.084,32.0
+Caleb McConnell,G,79.0,200.0,Sr.,Florida,,2021,Rutgers,True,False,21.0,32.0,956.0,0.3,1.9,2.1,0.09,29.875
+Carson Barrett,G,77.0,215.0,So.,Indiana,,2021,Purdue,True,False,19.0,9.0,19.0,-0.1,0.0,-0.1,-0.21,2.111111111111111
+Carter Gilmore,F,79.0,224.0,So.,Wisconsin,,2021,Wisconsin,True,False,19.0,22.0,173.0,0.0,0.2,0.2,0.041,7.863636363636363
+Carter Higginbottom,G,72.0,193.0,R-Jr.,Illinois,,2021,Wisconsin,True,False,21.0,6.0,6.0,-0.1,0.0,-0.1,-0.447,1.0
+Carter Kingsbury,G,76.0,225.0,Fr.,Nebraska,,2021,Iowa,True,False,18.0,,,,,,,
+Casey Simmons,G,78.0,180.0,Fy.,Massachusetts,,2021,Northwestern,True,False,18.0,27.0,312.0,0.0,0.4,0.4,0.053,11.555555555555555
+Cedric Russell,G,74.0,190.0,Gr.,Louisiana,,2021,Ohio_State,True,True,23.0,30.0,386.0,0.6,0.1,0.7,0.073,12.866666666666667
+Charlie Daniels,F,81.0,230.0,Sr.,Florida,The Potter's House Christian Academy,2021,Minnesota,True,True,21.0,29.0,328.0,0.0,0.4,0.4,0.043,11.310344827586206
+Chase Audige,G,76.0,200.0,R-Jr.,New York,,2021,Northwestern,True,False,21.0,24.0,644.0,0.0,1.1,1.1,0.068,26.83333333333333
+Chase Martin,G,75.0,180.0,So.,Missouri,,2021,Purdue,True,False,19.0,8.0,16.0,-0.1,0.0,-0.1,-0.215,2.0
+Chris Hodges,F,81.0,239.0,Fr.,Illinois,,2021,Wisconsin,True,False,18.0,,,,,,,
+Chris McGraw,G,72.0,176.0,Sophomore,Ohio,,2021,Nebraska,True,False,19.0,6.0,8.0,0.0,0.0,0.0,0.029,1.3333333333333333
+Chris Vogt,C,84.0,257.0,Sr.,Kentucky,,2021,Wisconsin,True,True,21.0,33.0,424.0,0.7,0.8,1.5,0.138,12.848484848484848
+Chucky Hepburn,G,74.0,211.0,Fr.,Nebraska,,2021,Wisconsin,True,False,18.0,33.0,1022.0,0.8,1.3,2.2,0.085,30.96969696969697
+Clifford Omoruyi,C,83.0,240.0,So.,Nigeria,,2021,Rutgers,False,False,19.0,32.0,919.0,2.3,1.5,3.9,0.168,28.71875
+Coleman Hawkins,F,82.0,215.0,So.,California,,2021,Illinois,True,False,19.0,33.0,627.0,0.9,1.2,2.1,0.133,19.0
+Connor McCaffery,G,78.0,215.0,RS Sr.,Iowa,,2021,Iowa,True,False,22.0,34.0,578.0,1.0,0.6,1.6,0.109,17.0
+Connor Serven,F,81.0,235.0,So.,Illinois,,2021,Illinois,True,False,19.0,6.0,12.0,0.0,0.0,0.0,-0.02,2.0
+Da'Monte Williams,G,75.0,215.0,Sr.,Illinois,,2021,Illinois,True,False,21.0,33.0,949.0,0.6,1.5,2.1,0.087,28.75757575757576
+Dain Dainja,F,81.0,270.0,R-Fr.,Minnesota,,2021,Illinois,True,False,19.0,,,,,,,
+Dallion Johnson,G,75.0,182.0,Sophomore,Massachusetts,,2021,Penn_State,True,False,19.0,29.0,422.0,0.3,0.2,0.5,0.047,14.551724137931034
+Dan Conlan,G,76.0,180.0,Sophomore,Pennsylvania,Dickinson,2021,Penn_State,True,False,19.0,3.0,4.0,0.0,0.0,0.0,0.004,1.3333333333333333
+Danny Ogele,F,79.0,220.0,Sr.,Illinois,Saint Ignatius Prep,2021,Minnesota,True,True,21.0,13.0,41.0,-0.2,0.1,-0.1,-0.081,3.1538461538461537
+Davis Smith,G,72.0,160.0,So.,Georgia,,2021,Michigan_State,True,False,19.0,12.0,20.0,-0.1,0.0,-0.1,-0.109,1.6666666666666667
+DeVante' Jones,G,73.0,200.0,Gr.,Louisiana,,2021,Michigan,True,True,23.0,,,,,,,
+Dean Reiber,F,82.0,225.0,So.,North Carolina,,2021,Rutgers,True,False,19.0,28.0,211.0,0.3,0.3,0.6,0.123,7.535714285714286
+Denim Dawson,G,78.0,185.0,Freshman,California,,2021,Nebraska,True,False,18.0,,,,,,,
+Derrick Walker,F,81.0,239.0,Junior,Missouri,,2021,Nebraska,True,False,20.0,32.0,839.0,2.2,0.7,2.9,0.139,26.21875
+Donta Scott,F,80.0,230.0,Jr.,Pennsylvania,,2021,Maryland,True,False,20.0,32.0,1066.0,1.7,1.0,2.7,0.102,33.3125
+E.J. Liddell,F,79.0,240.0,Jr.,Illinois,West,2021,Ohio_State,True,False,20.0,32.0,1062.0,4.6,1.6,6.3,0.236,33.1875
+Eduardo Andre,F,83.0,236.0,Freshman,England,,2021,Nebraska,False,False,18.0,30.0,345.0,0.0,0.5,0.5,0.063,11.5
+Eli Brooks,G,73.0,185.0,Gr.,Pennsylvania,,2021,Michigan,True,False,23.0,34.0,1223.0,2.8,1.1,3.9,0.128,35.97058823529412
+Elyjah Williams,F,79.0,220.0,Gr.,Illinois,,2021,Northwestern,True,True,23.0,29.0,373.0,0.2,0.4,0.6,0.067,12.862068965517242
+Eric Ayala,G,77.0,205.0,Sr.,Delaware,,2021,Maryland,True,False,21.0,31.0,1034.0,1.3,0.8,2.1,0.08,33.354838709677416
+Eric Curry,F,81.0,240.0,R-Sr.,Tennessee,Southwest Christian Academy,2021,Minnesota,True,False,22.0,26.0,720.0,0.2,0.9,1.2,0.065,27.692307692307693
+Eric Hunter Jr.,G,76.0,175.0,Sr.,Indiana,,2021,Purdue,True,False,21.0,,,,,,,
+Ethan Morton,G,78.0,215.0,So.,Pennsylvania,,2021,Purdue,True,False,19.0,37.0,548.0,0.9,0.7,1.5,0.111,14.81081081081081
+Eugene III,G,,,So.,Georgia,,2021,Ohio_State,True,False,19.0,,,,,,,
+Eylijah Stephens,G,75.0,175.0,Sr.,Florida,Saint Thomas Aquinas,2021,Minnesota,True,True,21.0,,,,,,,
+Fatts Russell,G,71.0,165.0,Gr.,Pennsylvania,,2021,Maryland,True,True,23.0,32.0,1044.0,2.0,1.0,3.0,0.114,32.625
+Filip Rebraca,F,81.0,230.0,Sr.,Serbia,University of North Dakota,2021,Iowa,False,True,21.0,36.0,768.0,1.4,1.1,2.4,0.125,21.33333333333333
+Frankie Collins,G,73.0,185.0,Fr.,California,,2021,Michigan,True,False,18.0,31.0,340.0,-0.2,0.4,0.2,0.023,10.96774193548387
+Gabe Brown,F,80.0,215.0,Sr.,Michigan,,2021,Michigan_State,True,False,21.0,36.0,1039.0,2.4,0.9,3.3,0.128,28.86111111111111
+Geo Baker,G,76.0,185.0,Sr.,New Hampshire,,2021,Rutgers,True,False,21.0,28.0,963.0,1.5,0.9,2.4,0.101,34.392857142857146
+Greg Lee,F,81.0,217.0,Senior+,Illinois,Western Michigan/Cal State Bakersfield,2021,Penn_State,True,True,23.0,16.0,350.0,0.2,0.4,0.6,0.07,21.875
+Hakim Hart,G,80.0,205.0,Jr.,Pennsylvania,,2021,Maryland,True,False,20.0,32.0,995.0,2.7,1.0,3.7,0.15,31.09375
+Harrison Hookfin,F,78.0,195.0,Sr.,Ohio,,2021,Ohio_State,True,False,21.0,7.0,14.0,0.0,0.0,0.0,0.142,2.0
+Hunter Dickinson,C,85.0,260.0,So.,Virginia,,2021,Michigan,True,False,19.0,32.0,1034.0,4.2,1.4,5.6,0.218,32.3125
+Ian Burns,G,78.0,200.0,Fr.,Illinois,,2021,Michigan,True,False,18.0,2.0,3.0,0.0,0.0,0.0,-0.104,1.5
+Ian Martinez,G,75.0,185.0,So.,Costa Rica,,2021,Maryland,False,True,19.0,28.0,351.0,-0.1,0.5,0.3,0.038,12.535714285714286
+Ike Cornish,G,78.0,190.0,Fr.,Maryland,,2021,Maryland,True,False,18.0,,,,,,,
+Irekefe Oweh,G,74.0,188.0,Sophomore,New Jersey,St. Thomas Aquinas,2021,Penn_State,True,True,19.0,2.0,3.0,-0.1,0.0,-0.1,-0.694,1.5
+Isaac Lindsey,G,76.0,184.0,So.,Wisconsin,,2021,Wisconsin,True,True,19.0,6.0,13.0,0.0,0.0,0.0,-0.052,2.1666666666666665
+Isaiah Barnes,G/F,79.0,185.0,Fr.,Illinois,,2021,Michigan,True,False,18.0,2.0,6.0,0.0,0.0,0.0,0.03,3.0
+Isaiah Ihnen,F,81.0,220.0,Jr.,Germany,IBA Munich,2021,Minnesota,False,False,20.0,,,,,,,
+Isaiah Thompson,G,73.0,160.0,Jr.,Indiana,,2021,Purdue,True,False,20.0,37.0,605.0,1.3,0.4,1.6,0.107,16.35135135135135
+Ishaan Jagiasi,G,73.0,180.0,Junior,Delaware,,2021,Penn_State,True,False,20.0,2.0,2.0,0.0,0.0,0.0,0.004,1.0
+Jace Howard,G,79.0,225.0,So.,Florida,,2021,Michigan,True,False,19.0,14.0,65.0,0.0,0.1,0.1,0.066,4.642857142857143
+Jace Piatkowski,G,75.0,177.0,Redshirt Freshman,Nebraska,,2021,Nebraska,True,False,19.0,,,,,,,
+Jackson Cronin,G,73.0,187.0,Freshman,New York,,2021,Nebraska,True,False,18.0,12.0,15.0,0.0,0.0,0.0,0.06,1.25
+Jackson Purcell,G,77.0,175.0,Fr.,Minnesota,Eastview,2021,Minnesota,True,False,18.0,,,,,,,
+Jacob Grandison,G/F,78.0,210.0,Gr.,California,,2021,Illinois,True,False,23.0,30.0,751.0,2.1,0.9,3.0,0.159,25.03333333333333
+Jaden Akins,G,76.0,180.0,Fr.,Michigan,,2021,Michigan_State,True,False,18.0,36.0,532.0,0.4,0.7,1.0,0.077,14.77777777777778
+Jaden Ivey,G,76.0,195.0,So.,Indiana,,2021,Purdue,True,False,19.0,36.0,1132.0,3.7,1.4,5.1,0.181,31.444444444444443
+Jaden Jones,G,80.0,220.0,Fr.,Texas,,2021,Rutgers,True,False,18.0,17.0,176.0,0.2,0.1,0.3,0.068,10.352941176470589
+Jahcobi Neath,G,76.0,196.0,Jr.,Ontario,,2021,Wisconsin,False,True,20.0,23.0,224.0,0.0,0.3,0.2,0.042,9.73913043478261
+Jaheam Cornwall,G,72.0,190.0,Senior+,New York,Gardner-Webb,2021,Penn_State,True,True,23.0,25.0,395.0,-0.5,0.2,-0.2,-0.025,15.8
+Jalanni White,F,80.0,205.0,Senior+,Connecticut,Canisius,2021,Penn_State,True,True,23.0,28.0,295.0,0.4,0.4,0.8,0.107,10.535714285714286
+Jalen Miller,G,74.0,200.0,Fr.,Maryland,,2021,Rutgers,True,False,18.0,24.0,184.0,-0.1,0.2,0.1,0.022,7.666666666666667
+Jalen Pickett,G,76.0,202.0,Senior,New York,Siena,2021,Penn_State,True,True,21.0,31.0,1154.0,2.3,1.3,3.5,0.122,37.2258064516129
+Jamari Wheeler,G,73.0,170.0,Gr.,Florida,The Rock School,2021,Ohio_State,True,False,23.0,31.0,914.0,1.5,0.9,2.5,0.108,29.483870967741936
+Jamison Battle,F,79.0,225.0,So.,Minnesota,DeLaSalle,2021,Minnesota,True,True,19.0,29.0,1064.0,1.9,0.9,2.8,0.105,36.689655172413794
+Jared Wulbrun,G,70.0,180.0,Sr.,California,,2021,Purdue,True,False,21.0,10.0,20.0,-0.1,0.0,0.0,-0.086,2.0
+Jaron Faulds,F,82.0,240.0,Sr.,Michigan,,2021,Michigan,True,False,21.0,15.0,51.0,0.0,0.0,0.1,0.061,3.4
+Jason Whitens,G,77.0,210.0,R-Sr.,Michigan,,2021,Michigan_State,True,True,22.0,,,,,,,
+Jevonnie Scott,F,79.0,252.0,Junior,Ontario,South Plains College,2021,Penn_State,False,True,20.0,11.0,70.0,-0.2,0.1,0.0,-0.015,6.363636363636363
+Jimmy Sotos,G,75.0,200.0,Gr.,Illinois,,2021,Ohio_State,True,False,23.0,19.0,146.0,0.5,0.1,0.6,0.161,7.684210526315789
+Joe Toussaint,G,72.0,190.0,Jr.,New York,,2021,Iowa,True,False,20.0,36.0,625.0,0.8,1.0,1.7,0.112,17.36111111111111
+Joey Brunk,C,83.0,255.0,Gr.,Indiana,Southport H.S.,2021,Ohio_State,True,False,23.0,28.0,214.0,0.4,0.3,0.7,0.136,7.642857142857143
+Joey Hauser,F,81.0,230.0,R-Sr.,Wisconsin,,2021,Michigan_State,True,False,22.0,35.0,776.0,1.8,0.9,2.6,0.137,22.17142857142857
+Joey Kern,G,73.0,170.0,Gr.,Iowa,Dowling Catholic,2021,Minnesota,True,False,23.0,2.0,3.0,0.0,0.0,0.0,-0.237,1.5
+John Harrar,F,81.0,240.0,Senior+,Pennsylvania,,2021,Penn_State,True,False,23.0,31.0,837.0,3.1,1.3,4.4,0.208,27.0
+Johnny Davis,G/F,77.0,194.0,So.,Wisconsin,,2021,Wisconsin,True,False,19.0,31.0,1060.0,2.5,2.0,4.5,0.171,34.193548387096776
+Jordan Bohannon,G,73.0,175.0,RS Sr.,Iowa,,2021,Iowa,True,False,22.0,36.0,968.0,2.7,0.7,3.4,0.141,26.88888888888889
+Jordan Davis,G,76.0,198.0,So.,Wisconsin,,2021,Wisconsin,True,False,19.0,27.0,175.0,0.0,0.2,0.2,0.052,6.481481481481482
+Jordan Geronimo,F,78.0,225.0,So.,New Jersey,,2021,Indiana,True,False,19.0,34.0,429.0,0.5,0.9,1.4,0.129,12.617647058823527
+Josh Ogundele,F,82.0,275.0,So.,England,,2021,Iowa,False,False,19.0,19.0,98.0,0.0,0.2,0.1,0.052,5.157894736842105
+Julian Reese,F,81.0,230.0,Fr.,Maryland,,2021,Maryland,True,False,18.0,32.0,565.0,0.8,0.6,1.4,0.1,17.65625
+Julian Roper II,G,75.0,180.0,Fy.,Michigan,,2021,Northwestern,True,False,18.0,,,,,,,
+Julius Marble II,F,81.0,245.0,Jr.,Texas,,2021,Michigan_State,True,False,20.0,,,,,,,
+Justice Sueing,F,78.0,210.0,R-Sr.,Hawaii,,2021,Ohio_State,True,False,22.0,2.0,31.0,0.0,0.0,0.0,0.026,15.5
+Justin Ahrens,F,78.0,195.0,Sr.,,,2021,Ohio_State,False,False,21.0,32.0,644.0,0.7,0.5,1.1,0.07,20.125
+Justin Taphorn,G,77.0,208.0,So.,Illinois,,2021,Wisconsin,True,False,19.0,4.0,5.0,0.0,0.0,0.0,-0.187,1.25
+Kalen Etzler,F,,,Fr.,Ohio,Crestview,2021,Ohio_State,True,False,18.0,,,,,,,
+Keegan Murray,F,80.0,225.0,So.,Iowa,,2021,Iowa,True,False,19.0,35.0,1116.0,6.6,2.0,8.7,0.311,31.88571428571429
+Keisei Tominaga,G,74.0,178.0,Sophomore,Japan,Ranger College,2021,Nebraska,False,True,19.0,30.0,494.0,0.6,0.3,0.8,0.067,16.466666666666665
+Keon Coleman,G,76.0,210.0,Fr.,Louisiana,,2021,Michigan_State,True,False,18.0,6.0,10.0,-0.1,0.0,0.0,-0.059,1.6666666666666667
+Keon Edwards,G,79.0,204.0,Freshman,Texas,,2021,Nebraska,True,False,18.0,19.0,107.0,-0.2,0.0,-0.2,-0.078,5.631578947368421
+Khristian Lander,G,74.0,185.0,So.,Indiana,,2021,Indiana,True,False,19.0,13.0,115.0,-0.1,0.2,0.0,0.009,8.846153846153847
+Kobe Bufkin,G,76.0,175.0,Fr.,Michigan,,2021,Michigan,True,False,18.0,28.0,298.0,0.1,0.3,0.4,0.055,10.642857142857142
+Kobe Webster,G,72.0,176.0,Senior,Indiana,,2021,Nebraska,True,False,21.0,30.0,600.0,0.3,0.2,0.4,0.029,20.0
+Kofi Cockburn,C,84.0,285.0,Jr.,Jamaica,,2021,Illinois,False,False,20.0,28.0,859.0,3.5,1.8,5.3,0.247,30.678571428571427
+Kris Murray,F,80.0,220.0,So.,Iowa,,2021,Iowa,True,False,19.0,35.0,628.0,2.3,1.1,3.4,0.217,17.942857142857143
+Kyle Young,F,80.0,225.0,Gr.,Ohio,,2021,Ohio_State,True,False,23.0,27.0,614.0,1.7,0.7,2.4,0.159,22.74074074074074
+Lat Mayen,F,81.0,217.0,Junior,Australia,,2021,Nebraska,False,False,20.0,31.0,733.0,0.2,0.4,0.6,0.034,23.64516129032258
+Logan Duncomb,C,81.0,234.0,Fr.,Ohio,,2021,Indiana,True,False,18.0,9.0,20.0,0.0,0.0,0.1,0.108,2.2222222222222223
+Logan Stephens,G,74.0,197.0,Fr.,Georgia,,2021,Rutgers,True,False,18.0,,,,,,,
+Lorne Bowman II,G,74.0,210.0,Fr.,Michigan,,2021,Wisconsin,True,False,18.0,,,,,,,
+Luc Laketa,G,76.0,180.0,Fr.,Michigan,Winchendon (MA),2021,Iowa,True,False,18.0,12.0,34.0,0.0,0.0,0.1,0.066,2.833333333333333
+Luke Nathan,F,83.0,240.0,Sr.,New Jersey,,2021,Rutgers,True,False,21.0,4.0,10.0,0.0,0.0,0.0,0.028,2.5
+Luke Goode,G,79.0,200.0,Fr.,Indiana,,2021,Illinois,True,False,18.0,28.0,249.0,0.3,0.3,0.6,0.101,8.892857142857142
+Luke Loewe,G,76.0,185.0,Sr.,Wisconsin,Fond du Lac,2021,Minnesota,True,True,21.0,30.0,1049.0,0.8,0.5,1.3,0.049,34.96666666666667
+Mady Sissoko,C,81.0,235.0,So.,Mali,,2021,Michigan_State,False,False,19.0,30.0,134.0,0.1,0.2,0.3,0.082,4.466666666666667
+Malaki Branham,G,77.0,180.0,Fr.,Ohio,St. Vincent-St. Mary???s,2021,Ohio_State,True,False,18.0,32.0,948.0,2.9,0.8,3.6,0.154,29.625
+Malik Hall,F,80.0,225.0,Jr.,Illinois,,2021,Michigan_State,True,False,20.0,36.0,784.0,1.7,0.9,2.6,0.131,21.77777777777778
+Maliq Carr,G/F,77.0,245.0,R-Fr.,Michigan,,2021,Michigan_State,True,False,19.0,1.0,1.0,0.0,0.0,0.0,0.003,1.0
+Marcus Bingham Jr.,F,84.0,230.0,Sr.,Michigan,,2021,Michigan_State,True,False,21.0,,,,,,,
+Marcus Dockery,G,74.0,180.0,So.,D.C.,,2021,Maryland,True,False,19.0,8.0,35.0,0.1,0.0,0.1,0.065,4.375
+Markus Ilver,F,80.0,219.0,Fr.,Estonia,,2021,Wisconsin,False,False,18.0,8.0,29.0,-0.1,0.0,-0.1,-0.101,3.625
+Mason Gillis,F,78.0,230.0,So.,Indiana,,2021,Purdue,True,False,19.0,33.0,776.0,2.0,0.8,2.8,0.146,23.51515151515152
+Matt Frost,F,77.0,200.0,Jr.,Indiana,,2021,Purdue,True,False,20.0,9.0,18.0,0.0,0.0,0.0,0.045,2.0
+Matthew Mors,F,79.0,241.0,Fr.,South Dakota,,2021,Wisconsin,True,False,18.0,,,,,,,
+Matthew Nicholson,C,84.0,255.0,So.,Michigan,,2021,Northwestern,True,False,19.0,15.0,66.0,0.2,0.1,0.3,0.175,4.4
+Mawot Mag,F,79.0,216.0,So.,Australia,,2021,Rutgers,False,False,19.0,28.0,328.0,0.2,0.4,0.5,0.067,11.714285714285714
+Max Christie,G,78.0,190.0,Fr.,Illinois,,2021,Michigan_State,True,False,18.0,35.0,1078.0,0.9,0.8,1.7,0.063,30.8
+Meechie Jr.,G,74.0,172.0,Fr.,Ohio,Garfield Heights,2021,Ohio_State,True,False,18.0,,,,,,,
+Michael Durr,C,84.0,250.0,Sr.,Georgia,,2021,Indiana,True,True,21.0,30.0,212.0,0.0,0.3,0.4,0.067,7.066666666666666
+Michael Peterson,G,79.0,205.0,Gr.,Michigan,,2021,Michigan_State,True,False,23.0,9.0,13.0,-0.1,0.0,0.0,-0.138,1.4444444444444444
+Michael Shipp,G,75.0,190.0,Jr.,Ohio,,2021,Indiana,True,False,20.0,,,,,,,
+Miller Kopp,F,79.0,220.0,Sr.,Texas,,2021,Indiana,True,False,21.0,35.0,879.0,0.4,1.1,1.5,0.07,25.114285714285717
+Moussa Diabate,F,83.0,210.0,Fr.,France,,2021,Michigan,False,False,18.0,32.0,796.0,1.6,0.9,2.5,0.124,24.875
+Myles Dread,G,76.0,235.0,Senior,Michigan,,2021,Penn_State,True,False,21.0,31.0,836.0,1.3,0.9,2.2,0.104,26.967741935483872
+Nathan Childress,F,78.0,212.0,Jr.,Indiana,,2021,Indiana,True,False,20.0,3.0,11.0,0.0,0.0,0.0,0.094,3.6666666666666665
+Oleg Kojenets,F,84.0,223.0,Freshman,Lithuania,,2021,Nebraska,False,False,18.0,,,,,,,
+Omar Payne,F,82.0,240.0,Jr.,Florida,,2021,Illinois,True,True,20.0,32.0,237.0,0.2,0.5,0.6,0.107,7.40625
+Oskar Palmquist,F,80.0,220.0,So.,Sweden,,2021,Rutgers,False,False,19.0,15.0,90.0,0.2,0.1,0.2,0.1,6.0
+Parker Fox,F,80.0,210.0,Jr.,Minnesota,Mahtomedi,2021,Minnesota,True,True,20.0,,,,,,,
+Parker Stewart,G,77.0,202.0,R-Sr.,Tennessee,,2021,Indiana,True,False,22.0,34.0,830.0,0.7,1.0,1.7,0.08,24.41176470588235
+Patrick McCaffery,F,,,RS So.,Iowa,,2021,Iowa,True,False,20.0,32.0,774.0,1.8,0.8,2.7,0.137,24.1875
+Paul Mulcahy,G,78.0,213.0,Jr.,New Jersey,,2021,Rutgers,True,False,20.0,32.0,1029.0,1.2,1.2,2.4,0.095,32.15625
+Pavlo Dziuba,F,80.0,235.0,So.,Ukraine,,2021,Maryland,False,True,19.0,8.0,33.0,0.0,0.0,0.0,0.034,4.125
+Payton Sandfort,G,79.0,215.0,Fr.,Iowa,,2021,Iowa,True,False,18.0,34.0,357.0,1.0,0.3,1.4,0.155,10.5
+Payton Willis,G,76.0,200.0,Sr.,Arkansas,Fayetteville,2021,Minnesota,True,True,21.0,29.0,1054.0,2.9,1.1,4.0,0.153,36.3448275862069
+Pete Nance,F,82.0,225.0,Sr.,Ohio,,2021,Northwestern,True,False,21.0,30.0,817.0,2.6,1.2,3.8,0.186,27.23333333333333
+Peter Nwoke,F,79.0,215.0,Fr.,Nigeria,,2021,Michigan_State,False,False,18.0,,,,,,,
+Pierre Brooks II,G,78.0,225.0,Fr.,Michigan,,2021,Michigan_State,True,False,18.0,,,,,,,
+Quaran McPherson,G,75.0,199.0,Freshman,New York,,2021,Nebraska,True,False,18.0,,,,,,,
+Qudus Wahab,F,83.0,240.0,Jr.,Nigeria,,2021,Maryland,False,True,20.0,32.0,617.0,1.2,0.7,2.0,0.128,19.28125
+RJ Melendez,G,79.0,205.0,Fr.,Puerto Rico,,2021,Illinois,False,False,18.0,22.0,187.0,0.7,0.3,1.0,0.222,8.5
+Race Thompson,F,80.0,235.0,R-Sr.,Minnesota,,2021,Indiana,True,False,22.0,35.0,997.0,2.2,2.1,4.3,0.172,28.485714285714284
+Ralph Gonzales-Agee,F,80.0,245.0,Gr.,California,,2021,Rutgers,True,True,23.0,,,,,,,
+Riley Mulvey,C,83.0,245.0,Fr.,New York,,2021,Iowa,True,False,18.0,17.0,83.0,0.1,0.1,0.2,0.08,4.882352941176471
+Rob Phinisee,G,73.0,187.0,Sr.,Indiana,,2021,Indiana,True,False,21.0,25.0,457.0,-0.2,0.7,0.5,0.043,18.28
+Robbie Beran,F,81.0,215.0,Jr.,Virginia,,2021,Northwestern,True,False,20.0,31.0,680.0,1.0,1.1,2.1,0.123,21.93548387096774
+Ron Harper Jr.,G,78.0,245.0,Sr.,New Jersey,,2021,Rutgers,True,False,21.0,,,,,,,
+Roy Dixon III,G,71.0,170.0,Jr.,Georgia,,2021,Northwestern,True,False,20.0,,,,,,,
+Ryan Greer,G,74.0,190.0,Sr.,Georgia,,2021,Northwestern,True,False,21.0,31.0,596.0,0.6,0.6,1.2,0.082,19.225806451612904
+Ryan Young,C,82.0,240.0,R-Jr.,New Jersey,,2021,Northwestern,True,False,21.0,31.0,530.0,1.6,0.7,2.3,0.172,17.096774193548388
+Sam Hoiberg,G,72.0,183.0,Freshman,Nebraska,Pius X,2021,Nebraska,True,False,18.0,,,,,,,
+Sam Sessoms,G,72.0,189.0,Senior,Pennsylvania,Binghamton,2021,Penn_State,True,False,21.0,31.0,857.0,1.2,0.8,2.1,0.096,27.64516129032258
+Sasha Stefanovic,G,77.0,205.0,Sr.,Indiana,,2021,Purdue,True,False,21.0,37.0,1125.0,3.0,0.8,3.9,0.137,30.405405405405407
+Sean Sutherlin,G,77.0,200.0,Sr.,Minnesota,Irondale,2021,Minnesota,True,True,21.0,28.0,616.0,0.7,0.7,1.4,0.089,22.0
+Sebastien Scott,G,74.0,185.0,So.,California,,2021,Indiana,True,False,19.0,,,,,,,
+Seth Lundy,F,78.0,217.0,Junior,New Jersey,,2021,Penn_State,True,False,20.0,30.0,971.0,0.8,1.2,2.1,0.085,32.36666666666667
+Seth Towns,F,81.0,230.0,Gr.,Ohio,,2021,Ohio_State,True,False,23.0,,,,,,,
+Shaan Burke,G,77.0,185.0,Fr.,California,,2021,Indiana,True,False,18.0,,,,,,,
+Simon Wright,F,79.0,225.0,Gr.,Minnesota,,2021,Maryland,True,True,23.0,20.0,62.0,0.0,0.0,0.1,0.052,3.1
+Steven Crowl,F,84.0,234.0,So.,Minnesota,,2021,Wisconsin,True,False,19.0,33.0,836.0,2.0,1.0,3.0,0.144,25.33333333333333
+Steven Izzo,G,68.0,150.0,Jr.,Michigan,,2021,Michigan_State,True,False,20.0,8.0,8.0,0.0,0.0,0.0,-0.018,1.0
+Tamar Bates,G,77.0,193.0,Fr.,Kansas,,2021,Indiana,True,False,18.0,32.0,465.0,-0.1,0.5,0.5,0.04,14.53125
+Terrance Williams II,F,79.0,230.0,So.,Maryland,,2021,Michigan,True,False,19.0,,,,,,,
+Tony Perkins,G,,,So.,Indiana,,2021,Iowa,True,False,19.0,36.0,657.0,1.5,0.8,2.3,0.142,18.25
+Trayce Jackson-Davis,F,81.0,245.0,Jr.,Indiana,,2021,Indiana,True,False,20.0,35.0,1129.0,4.4,2.3,6.8,0.239,32.25714285714286
+Trent Frazier,G,74.0,175.0,Sr.,Florida,,2021,Illinois,True,False,21.0,31.0,1076.0,2.2,1.4,3.6,0.135,34.70967741935484
+Trevion Williams,F,82.0,255.0,Sr.,Illinois,,2021,Purdue,True,False,21.0,37.0,744.0,3.0,1.6,4.6,0.245,20.10810810810811
+Trevor Lakes,F,80.0,220.0,Senior,Indiana,,2021,Nebraska,True,False,21.0,8.0,71.0,0.0,0.0,0.0,0.012,8.875
+Trey Galloway,G,77.0,200.0,So.,Indiana,,2021,Indiana,True,False,19.0,20.0,416.0,0.1,0.6,0.8,0.074,20.8
+Trey Kaufman-Renn,F,81.0,225.0,Fr.,Indiana,,2021,Purdue,True,False,18.0,,,,,,,
+Trey McGowens,G,76.0,196.0,Junior,South Carolina,,2021,Nebraska,True,False,20.0,17.0,455.0,0.2,0.4,0.6,0.055,26.764705882352946
+Treyton Thompson,C,84.0,210.0,Fr.,Minnesota,Alexandria // La Lumiere School,2021,Minnesota,True,False,18.0,19.0,152.0,0.1,0.1,0.3,0.07,8.0
+Ty Berry,G,75.0,185.0,So.,Kansas,,2021,Northwestern,True,False,19.0,31.0,686.0,0.8,0.8,1.6,0.092,22.12903225806452
+Tyler Wahl,F,81.0,221.0,Jr.,Minnesota,,2021,Wisconsin,True,False,20.0,32.0,976.0,1.8,1.7,3.6,0.146,30.5
+Tyson Walker,G,72.0,175.0,Jr.,New York,,2021,Michigan_State,True,True,20.0,36.0,812.0,1.6,0.7,2.3,0.115,22.55555555555556
+Wilhelm Breidenbach,F,82.0,227.0,Freshman,California,,2021,Nebraska,True,False,18.0,10.0,157.0,-0.1,0.2,0.1,0.034,15.7
+Will Ramberg,G,77.0,195.0,So.,Minnesota,Cook County,2021,Minnesota,True,True,19.0,13.0,48.0,0.0,0.0,0.0,-0.009,3.692307692307693
+Will Tschetter,F,80.0,230.0,Fr.,Minnesota,,2021,Michigan,True,False,18.0,,,,,,,
+Xavier Green,G,78.0,205.0,Gr.,Virginia,,2021,Maryland,True,True,23.0,32.0,633.0,0.3,0.4,0.7,0.046,19.78125
+Xavier Johnson,G,75.0,200.0,Sr.,Virginia,,2021,Indiana,True,True,21.0,34.0,942.0,1.8,1.6,3.4,0.143,27.705882352941178
+Zach Edey,C,88.0,295.0,So.,Ontario,,2021,Purdue,False,False,19.0,37.0,703.0,4.2,1.3,5.4,0.31,19.0
+Zed Key,F,,,So.,New York,,2021,Ohio_State,True,False,19.0,29.0,575.0,1.4,0.7,2.1,0.146,19.82758620689655
+A.J. Hoggard,G,76.0,205.0,Jr.,Pennsylvania,,2022,Michigan_State,True,False,20.0,34.0,1041.0,2.3,1.3,3.6,0.137,30.61764705882353
+AJ Redd,G,75.0,160.0,Fr.,Illinois,,2022,Illinois,True,False,18.0,2.0,2.0,0.0,0.0,0.0,-0.304,1.0
+Ahron Ulis,G,75.0,190.0,Jr.,Illinois,,2022,Iowa,True,False,20.0,32.0,722.0,0.5,0.4,0.9,0.05,22.5625
+Aiden Terry,G,70.0,160.0,Jr.,Kentucky,,2022,Rutgers,True,False,20.0,7.0,12.0,0.0,0.0,0.1,0.284,1.7142857142857142
+Amarion Nimmers,G,74.0,173.0,Fr.,Illinois,,2022,Iowa,True,False,18.0,,,,,,,
+Andrew Fulin,F,78.0,195.0,Sr.,New Jersey,,2022,Rutgers,True,False,21.0,1.0,1.0,0.0,0.0,0.0,0.039,1.0
+Andrew Funk,G,77.0,200.0,Senior+,Pennsylvania,Bucknell,2022,Penn_State,True,True,23.0,37.0,1275.0,2.7,0.9,3.6,0.114,34.45945945945946
+Andy Christos,G,77.0,186.0,Junior,New Jersey,,2022,Penn_State,True,False,20.0,2.0,3.0,0.0,0.0,0.0,-0.282,1.5
+Anthony Leal,G,77.0,200.0,Jr.,Indiana,,2022,Indiana,True,False,20.0,11.0,24.0,0.0,0.0,0.0,0.077,2.1818181818181817
+Antonio Chol,F,81.0,205.0,Fr.,New York,,2022,Rutgers,True,False,18.0,4.0,20.0,-0.1,0.0,-0.1,-0.165,5.0
+Antwone Woolfolk,F,81.0,250.0,Fr.,Ohio,,2022,Rutgers,True,False,18.0,32.0,235.0,0.2,0.6,0.8,0.131,7.34375
+Arnaud Revaz,F,82.0,230.0,Jr.,Switzerland,,2022,Maryland,False,False,20.0,7.0,15.0,0.0,0.0,0.0,0.033,2.142857142857143
+Aundre Hyatt,F,78.0,227.0,Jr.,New York,,2022,Rutgers,True,True,20.0,34.0,786.0,0.7,1.6,2.3,0.117,23.11764705882353
+Blaise Keita,F,83.0,241.0,Sophomore,Republic of Mali,Coffeyville CC,2022,Nebraska,False,True,19.0,21.0,212.0,0.2,0.4,0.6,0.11,10.095238095238097
+Blake Smith,G,78.0,175.0,Fy.,Pennsylvania,,2022,Northwestern,True,False,18.0,3.0,4.0,0.0,0.0,0.0,0.282,1.3333333333333333
+Boo Buie,G,74.0,180.0,Sr.,New York,,2022,Northwestern,True,False,21.0,34.0,1185.0,2.7,1.8,4.5,0.153,34.85294117647059
+Bowen Hardman,G,75.0,175.0,Fr.,Ohio,Princeton,2022,Ohio_State,True,False,18.0,7.0,18.0,0.1,0.0,0.1,0.224,2.571428571428572
+Braden Smith,G,72.0,180.0,Fr.,Indiana,,2022,Purdue,True,False,18.0,35.0,1061.0,2.7,1.9,4.6,0.174,30.314285714285717
+Braeden Carrington,G,76.0,195.0,Fr.,Minn,Park Center HS,2022,Minnesota,False,False,18.0,22.0,439.0,0.3,0.4,0.7,0.062,19.954545454545453
+Brandon Lieb,C,84.0,220.0,Jr.,Illinois,,2022,Illinois,True,False,20.0,16.0,59.0,0.0,0.1,0.1,0.092,3.6875
+Brandon Newman,G,77.0,200.0,Jr.,Indiana,,2022,Purdue,True,False,20.0,35.0,623.0,0.7,1.2,1.9,0.119,17.8
+Brett Karkus,G,76.0,185.0,So.,New York,,2022,Maryland,True,False,19.0,3.0,3.0,0.0,0.0,0.0,0.035,1.0
+Brian Waddell,F,80.0,195.0,R-Fr.,Indiana,,2022,Purdue,True,False,19.0,17.0,138.0,-0.2,0.2,-0.1,-0.016,8.117647058823529
+Brice Sensabaugh,F,78.0,235.0,Fr.,Florida,Lake Highland Prep,2022,Ohio_State,True,False,18.0,33.0,809.0,2.8,1.0,3.8,0.187,24.51515151515152
+Brooks Barnhizer,G,78.0,215.0,So.,Indiana,,2022,Northwestern,True,False,19.0,34.0,825.0,1.3,1.6,2.9,0.142,24.264705882352946
+Bruce Thornton,G,74.0,215.0,Fr.,Georgia,Milton,2022,Ohio_State,True,False,18.0,35.0,1069.0,2.1,0.9,3.0,0.113,30.542857142857144
+C.J. Wilcher,G,77.0,208.0,Sophomore,New Jersey,Xavier,2022,Nebraska,True,False,19.0,32.0,870.0,0.2,0.8,1.0,0.047,27.1875
+CJ Gunn,G,78.0,194.0,Fr.,Indiana,,2022,Indiana,True,False,18.0,20.0,150.0,-0.2,0.2,0.1,0.017,7.5
+Caelum Swanton-Rodger,C,83.0,220.0,Fr.,Alberta,,2022,Maryland,False,False,18.0,21.0,79.0,0.1,0.1,0.2,0.109,3.761904761904762
+Cale Jacobsen,G,76.0,194.0,Freshman,Nebraska,Ashland-Greenwood,2022,Nebraska,True,False,18.0,,,,,,,
+Caleb Dorsey,F,79.0,235.0,Junior,Maryland,,2022,Penn_State,True,False,20.0,16.0,192.0,0.0,0.2,0.3,0.059,12.0
+Caleb Furst,F,82.0,230.0,So.,Indiana,,2022,Purdue,True,False,19.0,35.0,644.0,1.6,1.1,2.7,0.17,18.4
+Caleb McConnell,G,79.0,200.0,5th,Florida,,2022,Rutgers,True,False,23.0,28.0,943.0,0.2,2.5,2.7,0.114,33.67857142857143
+Cam Spencer,G,76.0,207.0,Sr.,Maryland,,2022,Rutgers,True,True,21.0,34.0,1070.0,3.0,2.5,5.5,0.207,31.47058823529412
+Camden Heide,F,79.0,205.0,Fr.,Minnesota,,2022,Purdue,True,False,18.0,,,,,,,
+Camren Wynter,G,74.0,200.0,Senior+,New York,Drexel,2022,Penn_State,True,True,23.0,37.0,1044.0,1.5,0.9,2.4,0.091,28.216216216216218
+Carson Barrett,G,77.0,215.0,Jr.,Indiana,,2022,Purdue,True,False,20.0,5.0,11.0,0.0,0.0,0.0,0.16,2.2
+Carson Cooper,C,83.0,230.0,Fr.,Michigan,,2022,Michigan_State,True,False,18.0,30.0,197.0,0.3,0.2,0.6,0.113,6.566666666666666
+Carson Dick,G,74.0,175.0,Jr.,Maryland,,2022,Maryland,True,True,20.0,2.0,2.0,0.0,0.0,0.0,0.025,1.0
+Carter Gilmore,F,79.0,225.0,Jr.,Wisconsin,,2022,Wisconsin,True,False,20.0,35.0,659.0,0.5,1.0,1.5,0.089,18.82857142857143
+Carter Kingsbury,G,76.0,225.0,RS Fr.,Nebraska,,2022,Iowa,True,False,,8.0,31.0,0.1,0.0,0.1,0.126,3.875
+Chase Audige,G,76.0,200.0,R-Sr.,New York,William & Mary,2022,Northwestern,True,False,22.0,34.0,1169.0,0.7,2.5,3.2,0.109,34.38235294117647
+Chase Martin,G,74.0,180.0,Jr.,Missouri,,2022,Purdue,True,False,20.0,4.0,7.0,0.0,0.0,0.0,-0.055,1.75
+Chris Hodges,F,81.0,245.0,R-Fr.,Illinois,,2022,Wisconsin,True,False,19.0,14.0,30.0,0.0,0.0,0.0,0.056,2.142857142857143
+Chucky Hepburn,G,74.0,205.0,So.,Nebraska,,2022,Wisconsin,True,False,19.0,35.0,1124.0,1.1,1.9,2.9,0.105,32.114285714285714
+Clifford Omoruyi,C,83.0,240.0,Jr.,Nigeria,,2022,Rutgers,False,False,20.0,34.0,1030.0,1.8,2.8,4.6,0.178,30.294117647058822
+Colby Baumann,G,75.0,185.0,Fr.,Texas,IMG Academy,2022,Ohio_State,True,False,18.0,3.0,6.0,0.0,0.0,0.0,-0.18,2.0
+Coleman Hawkins,F,82.0,225.0,Jr.,California,,2022,Illinois,True,False,20.0,33.0,1073.0,1.2,2.1,3.2,0.121,32.51515151515152
+Connor Essegian,G,76.0,185.0,Fr.,Indiana,,2022,Wisconsin,True,False,18.0,35.0,959.0,1.8,1.4,3.2,0.133,27.4
+Connor McCaffery,G/F,78.0,215.0,Graduate Student,Iowa,,2022,Iowa,True,False,23.0,32.0,963.0,1.9,0.9,2.8,0.117,30.09375
+Connor Serven,F,81.0,235.0,Jr.,Illinois,,2022,Illinois,True,False,20.0,5.0,19.0,-0.1,0.0,0.0,-0.025,3.8
+Cooper Smith,G,73.0,175.0,So.,Michigan,,2022,Michigan,True,True,19.0,4.0,8.0,0.0,0.0,0.0,-0.009,2.0
+Dain Dainja,F,81.0,270.0,R-So.,Minnesota,,2022,Illinois,True,False,20.0,33.0,678.0,1.6,1.5,3.2,0.186,20.545454545454547
+Dallion Johnson,G,75.0,180.0,Junior,Massachusetts,,2022,Penn_State,True,False,20.0,23.0,200.0,0.0,0.2,0.1,0.028,8.695652173913043
+Dan Conlan,G,76.0,186.0,Junior,Pennsylvania,Dickinson,2022,Penn_State,True,False,20.0,6.0,13.0,-0.1,0.0,0.0,-0.138,2.1666666666666665
+Dante Eldridge,G,69.0,170.0,Jr.,Iowa,Kirkwood CC,2022,Iowa,True,True,20.0,3.0,9.0,0.0,0.0,0.0,0.043,3.0
+Dasonte Bowen,G,74.0,174.0,Fr.,Massachusetts,,2022,Iowa,True,False,18.0,26.0,243.0,0.2,0.1,0.3,0.049,9.346153846153848
+David Jenkins Jr.,G,73.0,200.0,Sr.,Washington,,2022,Purdue,True,True,21.0,,,,,,,
+Davis Smith,G,72.0,160.0,Jr.,Georgia,,2022,Michigan_State,True,False,20.0,12.0,24.0,-0.1,0.0,-0.1,-0.086,2.0
+Dawson Garcia,F,83.0,230.0,So.,Minnesota,Prior Lake HS,2022,Minnesota,True,True,19.0,26.0,827.0,1.4,0.8,2.2,0.106,31.807692307692307
+Dean Reiber,F,82.0,225.0,Jr.,North Carolina,,2022,Rutgers,True,False,20.0,28.0,190.0,0.1,0.4,0.5,0.096,6.785714285714286
+Demetrius Lilley,F,82.0,260.0,Freshman,Pennsylvania,,2022,Penn_State,True,False,18.0,5.0,14.0,-0.1,0.0,0.0,-0.122,2.8
+Denim Dawson,G,78.0,193.0,Redshirt Freshman,California,,2022,Nebraska,True,False,19.0,28.0,394.0,-0.3,0.4,0.1,0.013,14.071428571428571
+Derek Simpson,G,75.0,170.0,Fr.,New Jersey,,2022,Rutgers,True,False,18.0,34.0,684.0,0.3,1.2,1.6,0.093,20.11764705882353
+Derrick Walker,F,81.0,245.0,Senior,Missouri,,2022,Nebraska,True,False,21.0,27.0,831.0,1.2,1.2,2.5,0.118,30.77777777777778
+Don Carey,G,77.0,187.0,Gr.,Maryland,,2022,Maryland,True,True,23.0,,,,,,,
+Donta Scott,F,80.0,230.0,Sr.,Pennsylvania,,2022,Maryland,True,False,21.0,35.0,1097.0,1.4,1.8,3.3,0.12,31.34285714285714
+Dug McDaniel,G,71.0,160.0,Fr.,D.C.,,2022,Michigan,True,False,18.0,34.0,1044.0,0.9,1.3,2.2,0.085,30.705882352941178
+Emmanuel Bandoumel,G,76.0,187.0,Senior,Quebec,,2022,Nebraska,False,True,21.0,20.0,621.0,-0.1,0.8,0.7,0.048,31.05
+Ethan Morton,G,79.0,215.0,Jr.,Pennsylvania,,2022,Purdue,True,False,20.0,35.0,880.0,0.7,1.5,2.2,0.098,25.142857142857142
+Eugene III,G,79.0,195.0,Jr.,Georgia,,2022,Ohio_State,True,False,20.0,,,,,,,
+Evan Mahaffey,G,78.0,200.0,Freshman,Ohio,,2022,Penn_State,True,False,18.0,34.0,319.0,0.6,0.4,1.0,0.131,9.382352941176473
+Felix Okpara,C,83.0,220.0,Fr.,Nigeria,Hamilton Heights Christian Acad./Link Acad.,2022,Ohio_State,False,False,18.0,35.0,541.0,1.0,0.9,1.9,0.141,15.457142857142856
+Filip Rebraca,F,81.0,230.0,Fifth Year,Serbia,University of North Dakota,2022,Iowa,False,True,23.0,33.0,1041.0,3.3,1.0,4.2,0.163,31.545454545454547
+Fletcher Loyer,G,76.0,185.0,Fr.,Indiana,,2022,Purdue,True,False,18.0,35.0,1010.0,1.9,1.3,3.2,0.126,28.857142857142858
+Gregg Glenn III,F,79.0,230.0,Fr.,Florida,,2022,Michigan,True,False,18.0,,,,,,,
+Gus Hurlburt,F,81.0,210.0,Fy.,North Dakota,,2022,Northwestern,True,False,18.0,,,,,,,
+Hakim Hart,G,80.0,205.0,Sr.,Pennsylvania,,2022,Maryland,True,False,21.0,35.0,1148.0,2.8,1.8,4.7,0.163,32.8
+Henry Burt,F,76.0,216.0,Freshman,Nebraska,Elkhorn South,2022,Nebraska,True,False,18.0,,,,,,,
+Hogan Orbaugh,F,80.0,235.0,Jr.,Indiana,,2022,Indiana,True,True,20.0,1.0,0.0,0.0,0.0,0.0,,0.0
+Hunter Dickinson,C,85.0,260.0,Jr.,Virginia,,2022,Michigan,True,False,20.0,34.0,1112.0,3.9,2.0,5.9,0.213,32.705882352941174
+Ian Burns,G,78.0,205.0,So.,Illinois,,2022,Michigan,True,False,19.0,3.0,7.0,0.0,0.0,0.0,-0.092,2.333333333333333
+Ian Martinez,G,75.0,185.0,Jr.,Costa Rica,,2022,Maryland,False,True,20.0,35.0,626.0,0.9,1.0,1.9,0.121,17.885714285714286
+Ike Cornish,G,78.0,190.0,R-Fr.,Maryland,,2022,Maryland,True,False,19.0,21.0,101.0,-0.1,0.1,0.0,0.017,4.809523809523809
+Isaac Gard,G,74.0,165.0,Fr.,Wisconsin,,2022,Wisconsin,True,False,18.0,5.0,5.0,0.0,0.0,0.0,-0.136,1.0
+Isaac Likekele,G,77.0,215.0,Gr.,Texas,Timberview HS,2022,Ohio_State,True,True,23.0,32.0,699.0,0.4,0.9,1.3,0.073,21.84375
+Isaac Lindsey,G,76.0,185.0,So.,Wisconsin,,2022,Wisconsin,True,True,19.0,24.0,142.0,0.0,0.2,0.2,0.051,5.916666666666667
+Isaiah Barnes,G,79.0,200.0,R-Fr.,Illinois,,2022,Michigan,True,False,19.0,15.0,91.0,0.0,0.1,0.1,0.049,6.066666666666666
+Isaiah Ihnen,F,82.0,220.0,R-Jr.,Germany,IBA Munich,2022,Minnesota,False,False,21.0,,,,,,,
+Ishaan Jagiasi,G,73.0,197.0,Senior,Delaware,,2022,Penn_State,True,False,21.0,2.0,2.0,0.0,0.0,0.0,0.236,1.0
+Jace Howard,G,79.0,225.0,So.,Florida,,2022,Michigan,True,False,19.0,30.0,233.0,0.0,0.2,0.2,0.039,7.766666666666667
+Jackson Purcell,G,77.0,195.0,R-Fr.,Minnesota,Eastview,2022,Minnesota,True,False,19.0,1.0,4.0,0.0,0.0,0.0,-0.004,4.0
+Jackson Selvala,F,79.0,215.0,Sr.,Connecticut,,2022,Michigan,True,True,21.0,4.0,7.0,-0.1,0.0,-0.1,-0.364,1.75
+Jaden Akins,G,76.0,190.0,So.,Michigan,,2022,Michigan_State,True,False,19.0,30.0,823.0,0.8,1.2,2.0,0.099,27.433333333333334
+Jaden Henley,G,79.0,200.0,Fr.,California,Colony HS,2022,Minnesota,True,False,18.0,31.0,644.0,-0.5,0.5,0.0,0.002,20.774193548387096
+Jaelin Llewellyn,G,74.0,190.0,Gr.,Ontario,,2022,Michigan,False,True,23.0,8.0,212.0,0.1,0.3,0.3,0.061,26.5
+Jahari Long,G,77.0,200.0,Jr.,Texas,,2022,Maryland,True,True,20.0,35.0,345.0,0.3,0.4,0.8,0.089,9.857142857142858
+Jahcobi Neath,G,76.0,190.0,Jr.,Ontario,,2022,Wisconsin,False,True,20.0,3.0,28.0,-0.1,0.0,0.0,-0.025,9.333333333333334
+Jahmir Young,G,73.0,185.0,Gr.,Maryland,,2022,Maryland,True,True,23.0,35.0,1095.0,2.7,1.9,4.6,0.169,31.285714285714285
+Jalen Hood-Schifino,G,78.0,213.0,Fr.,Pennsylvania,,2022,Indiana,True,False,18.0,32.0,1058.0,0.6,1.3,1.9,0.071,33.0625
+Jalen Miller,G,74.0,200.0,So.,Maryland,,2022,Rutgers,True,False,19.0,23.0,140.0,0.0,0.3,0.3,0.073,6.086956521739131
+Jalen Pickett,G,76.0,209.0,Senior+,New York,Siena,2022,Penn_State,True,True,23.0,37.0,1353.0,5.5,1.8,7.3,0.215,36.567567567567565
+Jamarques Lawrence,G,75.0,185.0,Freshman,New Jersey,Roselle Catholic,2022,Nebraska,True,False,18.0,28.0,506.0,0.0,0.6,0.6,0.048,18.071428571428573
+Jameel Brown,G,76.0,188.0,Freshman,Pennsylvania,,2022,Penn_State,True,False,18.0,14.0,64.0,-0.1,0.1,0.0,0.001,4.571428571428571
+Jamison Battle,F,79.0,220.0,Jr.,Minnesota,DeLaSalle,2022,Minnesota,True,True,20.0,27.0,961.0,-0.2,0.5,0.4,0.015,35.592592592592595
+Jason Whitens,G,78.0,210.0,Gr.,Michigan,,2022,Michigan_State,True,True,23.0,19.0,79.0,0.1,0.1,0.2,0.079,4.157894736842105
+Jaxon Kohler,F,81.0,240.0,Fr.,Utah,,2022,Michigan_State,True,False,18.0,34.0,367.0,0.2,0.5,0.7,0.081,10.794117647058824
+Jayden Epps,G,74.0,190.0,Fr.,Virginia,,2022,Illinois,True,False,18.0,31.0,762.0,0.8,1.1,1.9,0.101,24.580645161290324
+Jeffrey Grace III,G,75.0,195.0,Redshirt Freshman,Illinois,Arizona State,2022,Nebraska,True,False,19.0,,,,,,,
+Jett Howard,G,80.0,215.0,Fr.,Florida,,2022,Michigan,True,False,18.0,29.0,922.0,2.1,1.0,3.0,0.132,31.79310344827586
+Joey Baker,G,79.0,205.0,Gr.,North Carolina,,2022,Michigan,True,True,23.0,34.0,558.0,0.8,0.7,1.5,0.107,16.41176470588235
+Joey Hauser,F,81.0,220.0,Gr.,Wisconsin,,2022,Michigan_State,True,False,23.0,34.0,1158.0,3.5,1.4,4.9,0.168,34.05882352941177
+Jordan Davis,G,76.0,200.0,Jr.,Wisconsin,,2022,Wisconsin,True,False,20.0,35.0,719.0,0.8,1.1,1.9,0.104,20.542857142857144
+Jordan Geronimo,F,78.0,225.0,Jr.,New Jersey,,2022,Indiana,True,False,20.0,27.0,335.0,0.5,0.6,1.1,0.137,12.407407407407408
+Josh Dix,G,77.0,192.0,Fr.,Iowa,,2022,Iowa,True,False,18.0,31.0,285.0,0.4,0.2,0.6,0.08,9.193548387096774
+Josh Ogundele,C,82.0,275.0,Jr.,England,,2022,Iowa,False,False,20.0,11.0,72.0,0.1,0.1,0.3,0.142,6.545454545454546
+Joshua Ola-Joseph,F,79.0,215.0,Fr.,Minnesota,Compass Prep,2022,Minnesota,True,False,18.0,31.0,685.0,0.3,0.4,0.7,0.04,22.096774193548388
+Julian Reese,F,81.0,230.0,So.,Maryland,,2022,Maryland,True,False,19.0,34.0,919.0,2.3,1.9,4.3,0.186,27.029411764705884
+Julian Roper II,G,75.0,180.0,So.,Michigan,,2022,Northwestern,True,False,19.0,,,,,,,
+Justice Sueing,F,78.0,210.0,R-Sr.,Hawaii,,2022,Ohio_State,True,False,22.0,35.0,1062.0,1.8,1.1,2.9,0.108,30.34285714285714
+Justin Taphorn,G,77.0,215.0,Jr.,Illinois,,2022,Wisconsin,True,False,20.0,5.0,6.0,0.0,0.0,0.0,0.028,1.2
+Juwan Gary,F,78.0,215.0,Sophomore,South Carolina,Alabama,2022,Nebraska,True,True,19.0,17.0,502.0,0.6,0.9,1.5,0.118,29.529411764705884
+Kadyn Betts,F,80.0,215.0,Fr.,Colorado,Pueblo Central,2022,Minnesota,True,False,18.0,,,,,,,
+Kaleb Banks,F,79.0,215.0,Fr.,Georgia,,2022,Indiana,True,False,18.0,24.0,135.0,0.2,0.2,0.4,0.116,5.625
+Kalen Etzler,F,80.0,190.0,R-Fr.,Ohio,Crestview,2022,Ohio_State,True,False,19.0,9.0,30.0,0.0,0.0,0.0,0.053,3.333333333333333
+Kamari McGee,G,72.0,180.0,So.,Wisconsin,,2022,Wisconsin,True,True,19.0,31.0,219.0,-0.1,0.3,0.2,0.034,7.064516129032258
+Kanye Clary,G,71.0,192.0,Freshman,Virginia,,2022,Penn_State,True,False,18.0,32.0,332.0,0.0,0.3,0.3,0.032,10.375
+Kebba Njie,F,82.0,237.0,Freshman,Ohio,,2022,Penn_State,True,False,18.0,37.0,529.0,0.4,0.7,1.1,0.083,14.297297297297296
+Keisei Tominaga,G,74.0,175.0,Junior,Japan,Ranger College,2022,Nebraska,False,True,20.0,32.0,803.0,2.4,0.7,3.1,0.154,25.09375
+Kobe Bufkin,G,76.0,195.0,So.,Michigan,,2022,Michigan,True,False,19.0,33.0,1121.0,2.5,1.7,4.1,0.148,33.96969696969697
+Kris Murray,F,80.0,220.0,Jr.,Iowa,,2022,Iowa,True,False,20.0,29.0,1011.0,3.6,1.1,4.7,0.187,34.86206896551724
+Logan Duncomb,C,82.0,241.0,So.,Ohio,,2022,Indiana,True,False,19.0,9.0,51.0,0.2,0.1,0.3,0.203,5.666666666666667
+Logan Stephens,G,74.0,197.0,So.,Georgia,,2022,Rutgers,True,False,19.0,3.0,5.0,0.0,0.0,0.0,0.399,1.6666666666666667
+Luc Laketa,G,77.0,180.0,So.,Michigan,Winchendon (MA),2022,Iowa,True,False,19.0,4.0,10.0,0.0,0.0,0.0,0.152,2.5
+Luke Goode,G,79.0,210.0,So.,Indiana,,2022,Illinois,True,False,19.0,10.0,139.0,0.3,0.2,0.6,0.159,13.9
+Luke Haertle,G,75.0,215.0,Fr.,Wisconsin,,2022,Wisconsin,True,False,18.0,,,,,,,
+Luke Hunger,F,82.0,255.0,Fy.,Quebec,,2022,Northwestern,False,False,18.0,6.0,37.0,0.1,0.0,0.1,0.153,6.166666666666667
+Mady Sissoko,C,81.0,240.0,Jr.,Mali,,2022,Michigan_State,False,False,20.0,34.0,729.0,1.0,1.2,2.1,0.117,21.44117647058824
+Malik Hall,F,80.0,220.0,Sr.,Illinois,,2022,Michigan_State,True,False,21.0,23.0,591.0,0.8,0.7,1.5,0.1,25.695652173913043
+Malik Reneau,F,81.0,233.0,Fr.,Florida,,2022,Indiana,True,False,18.0,35.0,522.0,0.7,0.9,1.6,0.122,14.914285714285716
+Markus Ilver,F,80.0,215.0,So.,Estonia,,2022,Wisconsin,False,False,19.0,18.0,119.0,-0.1,0.1,0.1,0.033,6.611111111111111
+Mason Gillis,F,78.0,230.0,Jr.,Indiana,,2022,Purdue,True,False,20.0,32.0,655.0,1.7,1.0,2.7,0.167,20.46875
+Matt Frost,F,77.0,200.0,Sr.,Indiana,,2022,Purdue,True,False,21.0,,,,,,,
+Matthew Mayer,G/F,81.0,225.0,5th,Texas,,2022,Illinois,True,True,23.0,33.0,877.0,1.9,1.8,3.8,0.171,26.57575757575757
+Matthew Nicholson,C,84.0,255.0,Jr.,Michigan,,2022,Northwestern,True,False,20.0,34.0,715.0,1.6,1.6,3.2,0.179,21.029411764705884
+Mawot Mag,F,79.0,216.0,Jr.,Australia,,2022,Rutgers,False,False,20.0,23.0,570.0,0.7,1.3,2.1,0.146,24.782608695652176
+Max Klesmit,G,75.0,200.0,Jr.,Wisconsin,,2022,Wisconsin,True,True,20.0,33.0,1059.0,1.2,1.7,2.9,0.109,32.09090909090909
+Michael Henn,F,80.0,244.0,Senior+,Washington,Denver,2022,Penn_State,True,True,23.0,29.0,249.0,0.4,0.2,0.6,0.091,8.586206896551724
+Michael Shipp,G,75.0,195.0,Sr.,Ohio,,2022,Indiana,True,False,21.0,3.0,2.0,0.0,0.0,0.0,0.022,0.6666666666666666
+Miller Kopp,F,79.0,215.0,Sr.+,Texas,,2022,Indiana,True,False,23.0,35.0,1062.0,1.9,1.0,3.0,0.112,30.34285714285714
+Myles Dread,G,76.0,235.0,Senior+,Michigan,,2022,Penn_State,True,False,23.0,37.0,795.0,1.1,0.7,1.8,0.091,21.486486486486488
+Nathan Childress,F,78.0,212.0,Sr.,Indiana,,2022,Indiana,True,False,21.0,5.0,10.0,0.0,0.0,0.0,0.047,2.0
+Niccolo Moretti,G,73.0,160.0,Fr.,Italy,,2022,Illinois,False,False,18.0,,,,,,,
+Nick Martinelli,F,79.0,200.0,Fy.,Illinois,,2022,Northwestern,True,False,18.0,20.0,202.0,0.4,0.3,0.6,0.127,10.1
+Nick Sanders,G,69.0,170.0,Fr.,Michigan,,2022,Michigan_State,True,False,18.0,7.0,7.0,0.0,0.0,0.0,-0.204,1.0
+Noah Batchelor,G,78.0,185.0,Fr.,Maryland,,2022,Maryland,True,False,18.0,22.0,148.0,-0.1,0.2,0.2,0.044,6.727272727272728
+Oleg Kojenets,F,84.0,232.0,Redshirt Freshman,Lithuania,,2022,Nebraska,False,False,19.0,18.0,63.0,0.0,0.1,0.0,0.023,3.5
+Oskar Palmquist,F,80.0,220.0,Jr.,Sweden,,2022,Rutgers,False,False,20.0,21.0,194.0,0.2,0.3,0.5,0.103,9.238095238095235
+Owen Spencer,F,81.0,215.0,Jr.,Ohio,Turpin,2022,Ohio_State,True,True,20.0,7.0,19.0,0.0,0.0,0.0,-0.032,2.7142857142857144
+Parker Fox,F,80.0,210.0,R-Jr.,Minnesota,Mahtomedi,2022,Minnesota,True,True,21.0,,,,,,,
+Patrick Emilien,F,79.0,210.0,Gr.,Ontario,,2022,Maryland,False,True,23.0,32.0,565.0,0.8,0.9,1.7,0.121,17.65625
+Patrick McCaffery,F,81.0,210.0,RS Jr.,Iowa,,2022,Iowa,True,False,21.0,27.0,604.0,1.2,0.6,1.7,0.115,22.37037037037037
+Paul Mulcahy,G,79.0,213.0,Sr.,New Jersey,,2022,Rutgers,True,False,21.0,30.0,971.0,1.1,2.0,3.1,0.128,32.36666666666667
+Pavlo Dziuba,F,80.0,235.0,Jr.,Ukraine,,2022,Maryland,False,True,20.0,6.0,13.0,0.0,0.0,0.0,-0.101,2.1666666666666665
+Paxton Warden,G,76.0,180.0,Fr.,Illinois,,2022,Illinois,True,False,18.0,10.0,15.0,-0.1,0.0,-0.1,-0.154,1.5
+Payton Sandfort,G,79.0,215.0,So.,Iowa,,2022,Iowa,True,False,19.0,33.0,685.0,2.0,0.6,2.7,0.157,20.75757575757576
+Pharrel Payne,F,81.0,255.0,Fr.,Minnesota,Park High School Cottage Grove,2022,Minnesota,True,False,18.0,30.0,661.0,0.8,0.7,1.6,0.095,22.03333333333333
+Pierre Brooks II,G,78.0,220.0,So.,Michigan,,2022,Michigan_State,True,False,19.0,,,,,,,
+Quaran McPherson,G,75.0,197.0,Redshirt Freshman,New York,,2022,Nebraska,True,False,19.0,,,,,,,
+RJ Floyd,G,75.0,165.0,So.,Maryland,,2022,Maryland,True,False,19.0,,,,,,,
+RJ Melendez,G,79.0,205.0,So.,Puerto Rico,,2022,Illinois,False,False,19.0,32.0,687.0,0.7,1.2,1.9,0.112,21.46875
+Race Thompson,F,80.0,235.0,R-Sr.+,Minnesota,,2022,Indiana,True,False,24.0,30.0,696.0,1.3,1.3,2.5,0.146,23.2
+Ramel Lloyd Jr.,G,78.0,204.0,Freshman,California,Sierra Canyon,2022,Nebraska,True,False,18.0,,,,,,,
+Riley Mulvey,C,83.0,245.0,So.,New York,,2022,Iowa,True,False,19.0,12.0,50.0,0.1,0.1,0.1,0.117,4.166666666666667
+Robbie Beran,F,81.0,215.0,Sr.,Virginia,,2022,Northwestern,True,False,21.0,34.0,875.0,1.3,1.5,2.8,0.127,25.735294117647054
+Roddy Gayle Jr.,G,76.0,205.0,Fr.,New York,Lewiston-Porter,2022,Ohio_State,True,False,18.0,,,,,,,
+Ross Candelino,G,77.0,185.0,Fr.,Florida,,2022,Wisconsin,True,False,18.0,5.0,5.0,0.0,0.0,0.0,0.278,1.0
+Roy Dixon III,G,71.0,170.0,Sr.,Georgia,,2022,Northwestern,True,False,21.0,,,,,,,
+Sam Griesel,G,79.0,216.0,Senior,Nebraska,,2022,Nebraska,True,True,21.0,30.0,1010.0,1.3,1.6,2.9,0.113,33.666666666666664
+Sam Hoiberg,G,72.0,180.0,Redshirt Freshman,Nebraska,Pius X,2022,Nebraska,True,False,19.0,21.0,267.0,0.7,0.4,1.1,0.162,12.714285714285714
+Sam King,F,80.0,225.0,Fr.,Indiana,,2022,Purdue,True,False,18.0,4.0,7.0,0.0,0.0,0.0,-0.102,1.75
+Sean McNeil,G,76.0,205.0,Gr.,Kentucky,Cooper HS,2022,Ohio_State,True,True,23.0,35.0,1018.0,2.0,0.6,2.6,0.101,29.085714285714285
+Sencire Harris,G,76.0,160.0,Fr.,Ohio,,2022,Illinois,True,False,18.0,33.0,479.0,0.2,1.0,1.2,0.1,14.515151515151516
+Seth Lundy,G,78.0,220.0,Senior,New Jersey,,2022,Penn_State,True,False,21.0,36.0,1141.0,3.3,1.5,4.8,0.168,31.694444444444443
+Shaan Burke,G,77.0,195.0,So.,California,,2022,Indiana,True,False,19.0,1.0,0.0,0.0,0.0,0.0,,0.0
+Steven Crowl,F,84.0,245.0,Jr.,Minnesota,,2022,Wisconsin,True,False,20.0,35.0,1071.0,2.3,1.8,4.1,0.153,30.6
+Steven Izzo,G,68.0,150.0,Sr.,Michigan,,2022,Michigan_State,True,False,21.0,8.0,8.0,-0.1,0.0,-0.1,-0.394,1.0
+Ta'Lon Cooper,G,76.0,195.0,Jr.,South Carolina,Dorman HS,2022,Minnesota,True,True,20.0,31.0,1137.0,0.9,0.9,1.7,0.06,36.67741935483871
+Tamar Bates,G,77.0,198.0,So.,Kansas,,2022,Indiana,True,False,19.0,35.0,713.0,0.8,0.7,1.4,0.081,20.37142857142857
+Tanner Holden,G,78.0,200.0,Sr.,Ohio,Wheelersburg,2022,Ohio_State,True,True,21.0,27.0,366.0,0.5,0.4,0.9,0.103,13.555555555555555
+Tarris Reed Jr.,F,82.0,260.0,Fr.,Missouri,,2022,Michigan,True,False,18.0,,,,,,,
+Taurus Samuels,G,73.0,195.0,5th,California,Vista HS,2022,Minnesota,True,True,23.0,28.0,471.0,-0.1,0.2,0.1,0.007,16.821428571428573
+Terrance Williams II,F,79.0,230.0,Jr.,Maryland,,2022,Michigan,True,False,20.0,,,,,,,
+Terrence Shannon Jr.,G,78.0,225.0,Sr.,Illinois,,2022,Illinois,True,True,21.0,,,,,,,
+Tony Perkins,G,76.0,205.0,Jr.,Indiana,,2022,Iowa,True,False,20.0,32.0,950.0,1.8,1.0,2.8,0.118,29.6875
+Trayce Jackson-Davis,F,81.0,245.0,Sr.,Indiana,,2022,Indiana,True,False,21.0,32.0,1105.0,4.8,2.4,7.2,0.261,34.53125
+Tre Holloman,G,74.0,180.0,Fr.,Minnesota,,2022,Michigan_State,True,False,18.0,34.0,292.0,0.1,0.3,0.4,0.052,8.588235294117647
+Trey Galloway,G,76.0,203.0,Jr.,Indiana,,2022,Indiana,True,False,20.0,32.0,886.0,1.5,0.9,2.4,0.109,27.6875
+Trey Kaufman-Renn,F,81.0,225.0,R-Fr.,Indiana,,2022,Purdue,True,False,19.0,35.0,397.0,0.8,0.7,1.5,0.151,11.342857142857143
+Treyton Thompson,C,84.0,210.0,So.,Minnesota,Alexandria // La Lumiere School,2022,Minnesota,True,False,19.0,20.0,220.0,-0.1,0.2,0.1,0.017,11.0
+Ty Berry,G,75.0,185.0,Jr.,Kansas,,2022,Northwestern,True,False,20.0,34.0,962.0,0.8,2.0,2.7,0.113,28.294117647058822
+Ty Rodgers,G/F,78.0,200.0,Fr.,Michigan,,2022,Illinois,True,False,18.0,33.0,574.0,0.5,1.1,1.6,0.113,17.393939393939394
+Tydus Verhoeven,F,81.0,235.0,Gr.,California,UTEP,2022,Northwestern,True,True,23.0,34.0,536.0,0.6,1.0,1.6,0.121,15.764705882352942
+Tyler Wahl,F,81.0,225.0,Sr.,Minnesota,,2022,Wisconsin,True,False,21.0,32.0,1007.0,0.5,2.0,2.4,0.097,31.46875
+Tyson Walker,G,73.0,180.0,Sr.,New York,,2022,Michigan_State,True,True,21.0,34.0,1154.0,2.6,1.2,3.8,0.133,33.94117647058823
+Wilhelm Breidenbach,F,82.0,231.0,Sophomore,California,,2022,Nebraska,True,False,19.0,32.0,409.0,-0.1,0.6,0.4,0.04,12.78125
+Will Berg,C,86.0,260.0,Fr.,Sweden,,2022,Purdue,False,False,18.0,,,,,,,
+Will Ramberg,G,77.0,205.0,Jr.,Minnesota,Cook County,2022,Minnesota,True,True,20.0,16.0,201.0,0.2,0.2,0.4,0.083,12.5625
+Will Tschetter,F,80.0,240.0,R-Fr.,Minnesota,,2022,Michigan,True,False,19.0,27.0,290.0,0.1,0.3,0.4,0.056,10.74074074074074
+Xavier Johnson,G,75.0,200.0,Sr.+,Virginia,,2022,Indiana,True,True,23.0,11.0,277.0,0.4,0.4,0.8,0.117,25.181818181818183
+Youssef Khayat,F,81.0,195.0,Fr.,Lebanon,,2022,Michigan,False,False,18.0,9.0,59.0,0.0,0.0,0.1,0.051,6.555555555555555
+Zach Edey,C,88.0,305.0,Jr.,Ontario,,2022,Purdue,False,False,20.0,34.0,1077.0,6.3,2.4,8.8,0.325,31.676470588235293
+Zed Key,F,80.0,255.0,Jr.,New York,,2022,Ohio_State,True,False,20.0,25.0,621.0,2.0,0.9,2.9,0.185,24.84
+A.J. Hoggard,G,76.0,210.0,Sr.,Pennsylvania,,2023,Michigan_State,True,False,21.0,35.0,1003.0,1.8,1.7,3.5,0.139,28.65714285714286
+AJ Redd,G,75.0,170.0,So.,Illinois,,2023,Illinois,True,False,19.0,10.0,20.0,-0.1,0.0,0.0,-0.084,2.0
+AJ Storr,G,79.0,205.0,So.,Illinois,,2023,Wisconsin,True,True,19.0,36.0,1038.0,2.2,1.0,3.2,0.124,28.83333333333333
+Ace Baldwin Jr.,G,73.0,190.0,Senior,Maryland,VCU,2023,Penn_State,True,True,21.0,,,,,,,
+Ahron Ulis,G,75.0,190.0,Junior,Illinois,Iowa,2023,Nebraska,True,False,20.0,,,,,,,
+Aiden Terry,G,70.0,160.0,Sr.,Kentucky,,2023,Rutgers,True,False,21.0,6.0,10.0,0.0,0.0,0.0,0.09,1.6666666666666667
+Amani Hansberry,F,80.0,240.0,Fr.,Maryland,,2023,Illinois,True,False,18.0,19.0,141.0,0.3,0.2,0.5,0.155,7.421052631578948
+Andy Christos,G,77.0,186.0,Senior,New Jersey,,2023,Penn_State,True,False,21.0,6.0,8.0,0.0,0.0,0.0,0.074,1.3333333333333333
+Anthony Leal,G,77.0,200.0,Sr.,Indiana,,2023,Indiana,True,False,21.0,21.0,308.0,0.2,0.3,0.5,0.065,14.666666666666666
+Anthony Walker,F,80.0,215.0,Sr.+,Maryland,Miami (Fla.),2023,Indiana,True,True,23.0,32.0,452.0,0.7,0.4,1.1,0.093,14.125
+Antonio Chol,F,81.0,220.0,R-Fr.,New York,,2023,Rutgers,True,False,19.0,7.0,36.0,-0.2,0.1,-0.1,-0.148,5.142857142857143
+Antwone Woolfolk,F,81.0,225.0,So.,Ohio,,2023,Rutgers,True,False,19.0,27.0,344.0,0.1,0.7,0.8,0.095,12.74074074074074
+Aundre Hyatt,F,78.0,235.0,Sr.,New York,,2023,Rutgers,True,True,21.0,32.0,834.0,1.1,1.7,2.8,0.132,26.0625
+Austin Parks,C,82.0,260.0,Fr.,Ohio,St. Marys Memorial,2023,Ohio_State,True,False,18.0,9.0,20.0,0.0,0.0,0.1,0.101,2.2222222222222223
+Austin Williams,G,76.0,205.0,Gr.,New Jersey,,2023,Rutgers,True,True,23.0,26.0,409.0,-0.2,0.8,0.6,0.058,15.73076923076923
+Ben Krikke,F,81.0,245.0,Graduate Student,Alberta,Valparaiso,2023,Iowa,False,True,23.0,34.0,973.0,2.5,0.7,3.2,0.131,28.61764705882353
+Ben Murphy,G,73.0,193.0,Jr.,Maryland,,2023,Maryland,True,False,20.0,4.0,9.0,0.0,0.0,0.0,0.111,2.25
+Blaise Keita,F,83.0,257.0,Junior,Republic of Mali,Coffeyville CC,2023,Nebraska,False,True,20.0,,,,,,,
+Blake Barkley,F,79.0,210.0,Fy.,West Virginia,,2023,Northwestern,True,False,18.0,,,,,,,
+Blake Preston,F,81.0,240.0,Gr.,North Carolina,Liberty,2023,Northwestern,True,True,23.0,28.0,288.0,0.3,0.3,0.6,0.088,10.285714285714286
+Blake Smith,G,78.0,175.0,So.,Pennsylvania,,2023,Northwestern,True,False,19.0,11.0,151.0,0.2,0.2,0.4,0.097,13.727272727272728
+Boo Buie,G,74.0,180.0,Gr.,New York,,2023,Northwestern,True,False,23.0,34.0,1253.0,3.8,1.3,5.1,0.162,36.85294117647059
+Bowen Hardman,G,75.0,190.0,So.,Ohio,Princeton,2023,Ohio_State,True,False,19.0,18.0,76.0,0.2,0.1,0.3,0.137,4.222222222222222
+Braden Pierce,C,84.0,230.0,Fr.,Georgia,,2023,Maryland,True,False,18.0,,,,,,,
+Braden Smith,G,72.0,175.0,So.,Indiana,,2023,Purdue,True,False,19.0,39.0,1327.0,3.3,2.4,5.7,0.172,34.02564102564103
+Braeden Carrington,G,76.0,195.0,So.,Minn,Park Center HS,2023,Minnesota,False,False,19.0,29.0,609.0,0.2,0.7,0.9,0.057,21.0
+Bragi Guðmundsson,G,77.0,175.0,Freshman,Iceland,,2023,Penn_State,False,False,18.0,,,,,,,
+Brian Waddell,F,80.0,190.0,So.,Indiana,,2023,Purdue,True,False,19.0,14.0,57.0,0.1,0.1,0.1,0.091,4.071428571428571
+Brice Williams,G,79.0,213.0,Junior,North Carolina,Charlotte,2023,Nebraska,True,True,20.0,34.0,1011.0,2.4,1.8,4.2,0.165,29.735294117647054
+Brock Harding,G,72.0,162.0,Fr.,Illinois,,2023,Iowa,True,False,18.0,34.0,368.0,0.4,0.3,0.7,0.075,10.823529411764708
+Brooks Barnhizer,G,78.0,215.0,Jr.,Indiana,,2023,Northwestern,True,False,20.0,34.0,1249.0,2.2,2.1,4.3,0.138,36.73529411764706
+Bruce Thornton,G,74.0,215.0,So.,Georgia,Milton,2023,Ohio_State,True,False,19.0,35.0,1177.0,4.0,1.4,5.4,0.182,33.628571428571426
+C.J. Wilcher,G,77.0,214.0,Junior,New Jersey,Xavier,2023,Nebraska,True,False,20.0,33.0,592.0,1.1,0.7,1.8,0.119,17.939393939393938
+CJ Gunn,G,78.0,198.0,So.,Indiana,,2023,Indiana,True,False,19.0,29.0,372.0,-0.1,0.4,0.3,0.027,12.827586206896552
+Caelum Swanton-Rodger,C,83.0,220.0,So.,Alberta,,2023,Maryland,False,False,19.0,31.0,201.0,0.2,0.4,0.6,0.125,6.483870967741935
+Cale Jacobsen,G,76.0,200.0,Redshirt Freshman,Nebraska,Ashland-Greenwood,2023,Nebraska,True,False,19.0,20.0,55.0,0.1,0.1,0.1,0.083,2.75
+Caleb Furst,F,82.0,225.0,Jr.,Indiana,,2023,Purdue,True,False,20.0,36.0,324.0,0.5,0.6,1.0,0.126,9.0
+Cam Christie,G,78.0,190.0,Fr.,Illinois,Rolling Meadows HS,2023,Minnesota,True,False,18.0,33.0,993.0,1.6,0.9,2.5,0.1,30.09090909090909
+Camden Heide,F,79.0,205.0,R-Fr.,Minnesota,,2023,Purdue,True,False,19.0,39.0,484.0,1.0,0.7,1.7,0.14,12.41025641025641
+Carson Barrett,G,77.0,210.0,Sr.,Indiana,,2023,Purdue,True,False,21.0,13.0,23.0,0.0,0.0,0.1,0.109,1.7692307692307692
+Carson Cooper,C,83.0,240.0,So.,Michigan,,2023,Michigan_State,True,False,19.0,35.0,595.0,0.7,1.2,1.8,0.124,17.0
+Carter Gilmore,F,79.0,232.0,Jr.,Wisconsin,,2023,Wisconsin,True,False,20.0,33.0,305.0,0.4,0.2,0.6,0.082,9.242424242424242
+Carter Kingsbury,G,76.0,225.0,RS So.,Nebraska,,2023,Iowa,True,False,20.0,5.0,16.0,0.0,0.0,0.0,0.068,3.2
+Chance Stephens,G,75.0,185.0,So.,California,,2023,Maryland,True,True,19.0,,,,,,,
+Chase Martin,G,74.0,180.0,Sr.,Missouri,,2023,Purdue,True,False,21.0,13.0,23.0,-0.1,0.0,-0.1,-0.159,1.7692307692307692
+Chris Hodges,F,81.0,250.0,So.,Illinois,,2023,Wisconsin,True,False,19.0,11.0,21.0,0.0,0.0,0.0,0.015,1.9090909090909087
+Chucky Hepburn,G,74.0,195.0,Jr.,Nebraska,,2023,Wisconsin,True,False,20.0,35.0,1164.0,2.1,1.6,3.7,0.128,33.25714285714286
+Clifford Omoruyi,C,83.0,240.0,Sr.,Nigeria,,2023,Rutgers,False,False,21.0,32.0,860.0,1.1,2.3,3.5,0.162,26.875
+Coen Carr,F,77.0,220.0,Fr.,Georgia,,2023,Michigan_State,True,False,18.0,35.0,407.0,0.6,0.8,1.3,0.132,11.628571428571428
+Colby Baumann,G,75.0,190.0,So.,Texas,IMG Academy,2023,Ohio_State,True,False,19.0,4.0,7.0,0.1,0.0,0.1,0.416,1.75
+Coleman Hawkins,F,82.0,230.0,Sr.,California,,2023,Illinois,True,False,21.0,35.0,1107.0,2.8,1.8,4.6,0.168,31.62857142857143
+Connor Essegian,G,76.0,195.0,So.,Indiana,,2023,Wisconsin,True,False,19.0,33.0,242.0,0.2,0.2,0.4,0.071,7.333333333333333
+Cooper Smith,G,73.0,180.0,Jr.,Michigan,,2023,Michigan,True,True,20.0,10.0,17.0,0.0,0.0,0.0,0.034,1.7
+D'Marco Dunn,G,77.0,195.0,Junior,Arizona,North Carolina,2023,Penn_State,True,True,20.0,33.0,601.0,0.5,0.6,1.1,0.076,18.21212121212121
+Dain Dainja,F/C,81.0,255.0,R-Jr.,Minnesota,,2023,Illinois,True,False,21.0,38.0,411.0,1.5,0.7,2.1,0.206,10.81578947368421
+Dale Bonner,G,74.0,175.0,5th,Ohio,Shaker Heights,2023,Ohio_State,True,True,23.0,36.0,694.0,0.1,0.9,1.0,0.057,19.27777777777778
+Dan Conlan,G,76.0,186.0,Senior,Pennsylvania,Dickinson,2023,Penn_State,True,False,21.0,7.0,11.0,0.0,0.0,0.0,-0.003,1.5714285714285714
+Daniel Vessey,G,75.0,190.0,Fr.,New Jersey,,2023,Rutgers,True,False,18.0,,,,,,,
+Dasonte Bowen,G,74.0,183.0,So.,Massachusetts,,2023,Iowa,True,False,19.0,25.0,335.0,0.6,0.1,0.7,0.088,13.4
+Davis Smith,G,72.0,160.0,Sr.,Georgia,,2023,Michigan_State,True,False,21.0,12.0,28.0,0.1,0.0,0.1,0.121,2.333333333333333
+Dawson Garcia,F,83.0,230.0,Jr.,Minnesota,Prior Lake HS,2023,Minnesota,True,True,20.0,31.0,993.0,2.7,1.2,3.9,0.159,32.03225806451613
+DeShawn Harris-Smith,G,77.0,215.0,Fr.,Virginia,,2023,Maryland,True,False,18.0,33.0,973.0,-0.1,1.6,1.5,0.061,29.484848484848484
+Demetrius Lilley,F,82.0,245.0,Sophomore,Pennsylvania,,2023,Penn_State,True,False,19.0,20.0,183.0,0.4,0.3,0.7,0.152,9.15
+Derek Simpson,G,75.0,165.0,So.,New Jersey,,2023,Rutgers,True,False,19.0,32.0,831.0,-0.1,1.6,1.5,0.07,25.96875
+Devin Royal,F,78.0,210.0,Fr.,Ohio,Pickerington Central,2023,Ohio_State,True,False,18.0,33.0,371.0,0.5,0.5,1.1,0.114,11.242424242424242
+Donta Scott,F,80.0,230.0,5th,Pennsylvania,,2023,Maryland,True,False,23.0,33.0,995.0,1.5,1.6,3.1,0.125,30.151515151515152
+Dra Gibbs-Lawhorn,G,73.0,185.0,Fr.,Indiana,,2023,Illinois,True,False,18.0,28.0,200.0,0.0,0.2,0.2,0.037,7.142857142857143
+Dug McDaniel,G,71.0,175.0,So.,D.C.,,2023,Michigan,True,False,19.0,26.0,921.0,1.7,0.3,2.0,0.087,35.42307692307692
+Eli Rice,G,80.0,213.0,Freshman,Tennessee,IMG Academy,2023,Nebraska,True,False,18.0,17.0,171.0,0.4,0.2,0.7,0.158,10.058823529411764
+Elijah Hawkins,G,71.0,165.0,Jr.,D.C.,DeMatha Catholic HS,2023,Minnesota,True,True,20.0,33.0,1098.0,2.1,1.2,3.3,0.12,33.27272727272727
+Emmanuel Ogbole,C,82.0,260.0,So.,Nigeria,,2023,Rutgers,False,True,19.0,10.0,81.0,-0.1,0.2,0.1,0.047,8.1
+Erick Reader,F,80.0,210.0,Fr.,Minnesota,New Life Academy,2023,Minnesota,True,False,18.0,2.0,8.0,0.0,0.0,0.0,0.102,4.0
+Ethan Morton,G,79.0,215.0,Sr.,Pennsylvania,,2023,Purdue,True,False,21.0,37.0,370.0,0.1,0.6,0.7,0.075,10.0
+Evan Mahaffey,G,78.0,200.0,So.,Ohio,Archbishop Moeller,2023,Ohio_State,True,False,19.0,36.0,795.0,0.5,1.3,1.9,0.094,22.08333333333333
+Even Brauns,C,81.0,245.0,Sr.,Iowa,Belmont,2023,Iowa,True,True,21.0,18.0,64.0,0.0,0.1,0.1,0.074,3.555555555555556
+Favour Aire,F,83.0,220.0,Sophomore,Nigeria,Miami (Fla.),2023,Penn_State,False,True,19.0,12.0,55.0,-0.1,0.1,0.0,0.004,4.583333333333333
+Felix Okpara,C,83.0,235.0,So.,Nigeria,Hamilton Heights Christian Acad./Link Acad.,2023,Ohio_State,False,False,19.0,35.0,824.0,1.4,1.6,3.0,0.143,23.542857142857144
+Fletcher Loyer,G,76.0,180.0,So.,Indiana,,2023,Purdue,True,False,19.0,39.0,1086.0,2.3,1.3,3.6,0.134,27.846153846153847
+Gabe Cupps,G,74.0,175.0,Fr.,Ohio,,2023,Indiana,True,False,18.0,33.0,716.0,-0.2,0.5,0.3,0.017,21.696969696969692
+Gavin Griffiths,G,80.0,193.0,Fr.,Connecticut,,2023,Rutgers,True,False,18.0,32.0,575.0,-0.4,0.9,0.5,0.032,17.96875
+Gehrig Normand,G,77.0,190.0,Fr.,Texas,,2023,Michigan_State,True,False,18.0,,,,,,,
+George Washington III,G,74.0,170.0,Fr.,Texas,,2023,Michigan,True,False,18.0,,,,,,,
+Gus Hurlburt,F,81.0,210.0,So.,North Dakota,,2023,Northwestern,True,False,19.0,6.0,6.0,0.0,0.0,0.0,0.122,1.0
+Gus Yalden,F,81.0,245.0,Fr.,Wisconsin,,2023,Wisconsin,True,False,18.0,,,,,,,
+Harrison Hochberg,F,79.0,225.0,Fr.,New York,,2023,Michigan,True,False,18.0,10.0,19.0,0.0,0.0,0.0,-0.055,1.9
+Henry Burt,F,79.0,216.0,Redshirt Freshman,Nebraska,Elkhorn South,2023,Nebraska,True,False,19.0,7.0,10.0,0.0,0.0,0.0,0.014,1.4285714285714286
+Ian Burns,G,78.0,205.0,Jr.,Illinois,,2023,Michigan,True,False,20.0,11.0,25.0,-0.1,0.0,-0.1,-0.151,2.272727272727273
+Ian Stephens,G,78.0,180.0,Fr.,Indiana,,2023,Indiana,True,False,18.0,1.0,1.0,0.0,0.0,0.0,-0.003,1.0
+Isaac Gard,G,74.0,165.0,So.,Wisconsin,,2023,Wisconsin,True,False,19.0,6.0,6.0,0.0,0.0,0.0,-0.106,1.0
+Isaac Lindsey,G,76.0,185.0,Jr.,Wisconsin,,2023,Wisconsin,True,True,20.0,16.0,59.0,-0.1,0.1,0.0,-0.009,3.6875
+Isaiah Ihnen,F,81.0,220.0,R-Jr.,Germany,IBA Munich,2023,Minnesota,False,False,21.0,28.0,322.0,0.3,0.4,0.7,0.084,11.5
+Jace Howard,G,80.0,225.0,Jr.,Florida,,2023,Michigan,True,False,20.0,10.0,128.0,0.0,0.0,0.0,-0.002,12.8
+Jace Rayl,G,71.0,170.0,Fr.,Indiana,,2023,Purdue,True,False,18.0,1.0,1.0,0.0,0.0,0.0,0.025,1.0
+Jack Janicki,G,77.0,190.0,Fr.,Minnesota,,2023,Wisconsin,True,False,18.0,,,,,,,
+Jack Wilson,C,83.0,285.0,Gr.,California,Junipero Serra HS,2023,Minnesota,True,True,23.0,7.0,30.0,0.0,0.0,0.0,0.037,4.285714285714286
+Jackson Creel,G,75.0,190.0,Jr.,Illinois,Rend Lake College,2023,Indiana,True,True,20.0,1.0,1.0,0.0,0.0,0.0,-0.003,1.0
+Jackson Purcell,G,77.0,195.0,R-So.,Minnesota,Eastview,2023,Minnesota,True,False,20.0,2.0,4.0,0.0,0.0,0.0,0.101,2.0
+Jackson Selvala,F,79.0,230.0,5th,Connecticut,,2023,Michigan,True,True,23.0,13.0,28.0,0.0,0.0,0.1,0.078,2.1538461538461537
+Jacob Morales,G,76.0,205.0,So.,New Jersey,,2023,Rutgers,True,False,19.0,5.0,7.0,0.0,0.0,0.0,-0.062,1.4
+Jaden Akins,G,76.0,190.0,Jr.,Michigan,,2023,Michigan_State,True,False,20.0,35.0,995.0,1.1,1.6,2.7,0.109,28.428571428571427
+Jaelin Llewellyn,G,74.0,190.0,Gr.,Ontario,,2023,Michigan,False,True,23.0,20.0,350.0,-0.1,0.0,-0.1,-0.011,17.5
+Jahari Long,G,77.0,200.0,Sr.,Texas,,2023,Maryland,True,True,21.0,30.0,554.0,0.5,0.8,1.3,0.093,18.466666666666665
+Jahmir Young,G,73.0,185.0,5th,Maryland,,2023,Maryland,True,True,23.0,32.0,1134.0,3.4,1.9,5.3,0.188,35.4375
+Jahnathan Lamothe,G,76.0,192.0,Fr.,Maryland,,2023,Maryland,True,False,18.0,16.0,112.0,-0.2,0.2,0.0,0.002,7.0
+Jakai Newton,G,75.0,203.0,Fr.,Georgia,,2023,Indiana,True,False,18.0,,,,,,,
+Jamarques Lawrence,G,75.0,183.0,Sophomore,New Jersey,Roselle Catholic,2023,Nebraska,True,False,19.0,34.0,799.0,0.3,1.2,1.5,0.074,23.5
+Jameel Brown,G,76.0,188.0,Sophomore,Pennsylvania,,2023,Penn_State,True,False,19.0,27.0,273.0,0.0,0.3,0.3,0.047,10.11111111111111
+James Goodis,G,72.0,175.0,Fr.,Florida,,2023,Indiana,True,False,18.0,,,,,,,
+Jamichael Davis,G,74.0,175.0,Fr.,Tennessee,,2023,Rutgers,True,False,18.0,31.0,716.0,-0.2,1.4,1.1,0.063,23.096774193548388
+"Jamie Kaiser, Jr.",F,78.0,205.0,Fr.,Virginia,,2023,Maryland,True,False,18.0,,,,,,,
+Jamison Battle,F,79.0,220.0,5th,Minnesota,DeLaSalle,2023,Ohio_State,True,True,23.0,35.0,1099.0,3.2,1.2,4.4,0.161,31.4
+Jarron Coleman,G,77.0,213.0,Senior,Indiana,Ball State,2023,Nebraska,True,True,21.0,12.0,144.0,-0.2,0.2,0.0,-0.014,12.0
+Jaxon Kohler,F,81.0,245.0,So.,Utah,,2023,Michigan_State,True,False,19.0,21.0,195.0,0.0,0.3,0.3,0.059,9.285714285714286
+Jeffrey Grace III,G,75.0,197.0,Sophomore,Illinois,Arizona State,2023,Nebraska,True,False,19.0,,,,,,,
+Jeremiah Williams,G,76.0,177.0,R-Jr.,Illinois,,2023,Rutgers,True,True,21.0,12.0,322.0,0.4,0.6,1.0,0.129,26.83333333333333
+Jeremy Fears Jr.,G,74.0,190.0,Fr.,Illinois,,2023,Michigan_State,True,False,18.0,,,,,,,
+John Blackwell,G,76.0,194.0,Fr.,Michigan,,2023,Wisconsin,True,False,18.0,34.0,628.0,1.6,0.7,2.3,0.149,18.47058823529412
+Jordan Geronimo,F,78.0,225.0,Sr.,New Jersey,,2023,Maryland,True,True,21.0,31.0,722.0,0.4,1.4,1.8,0.097,23.29032258064516
+Jordan Clayton,G,74.0,180.0,Fy.,Massachusetts,,2023,Northwestern,True,False,18.0,28.0,202.0,-0.4,0.2,-0.2,-0.041,7.214285714285714
+Jordan Rayford,G,77.0,205.0,R-Fr.,D.C.,Air Force,2023,Indiana,True,False,19.0,,,,,,,
+Josh Dix,G,77.0,200.0,So.,Iowa,,2023,Iowa,True,False,19.0,34.0,831.0,1.9,0.4,2.3,0.11,24.44117647058824
+Josh Furst,F,78.0,200.0,Fr.,Indiana,,2023,Purdue,True,False,18.0,1.0,1.0,0.0,0.0,0.0,0.177,1.0
+Joshua Ola-Joseph,F,79.0,215.0,So.,Minnesota,Compass Prep,2023,Minnesota,True,False,19.0,29.0,455.0,1.2,0.3,1.6,0.138,15.689655172413794
+Josiah Allick,F,80.0,231.0,Senior,Nebraska,New Mexico,2023,Nebraska,True,True,21.0,33.0,785.0,1.8,1.2,3.0,0.151,23.78787878787879
+Jovone Cater,G,74.0,180.0,Sr.,New York,,2023,Iowa,True,False,21.0,4.0,12.0,-0.1,0.0,-0.1,-0.25,3.0
+Julian Reese,F,81.0,230.0,Jr.,Maryland,,2023,Maryland,True,False,20.0,32.0,1022.0,1.7,2.4,4.1,0.159,31.9375
+Justin Harmon,G,76.0,180.0,Gr.,Illinois,,2023,Illinois,True,True,23.0,38.0,713.0,1.3,0.8,2.0,0.113,18.76315789473684
+Justin Mullins,G,78.0,190.0,So.,Illinois,Denver,2023,Northwestern,True,True,19.0,19.0,98.0,-0.1,0.1,0.0,-0.003,5.157894736842105
+Juwan Gary,F,78.0,221.0,Junior,South Carolina,Alabama,2023,Nebraska,True,True,20.0,28.0,757.0,2.1,1.4,3.5,0.185,27.035714285714285
+Kadyn Betts,F,80.0,220.0,R-Fr.,Colorado,Pueblo Central,2023,Minnesota,True,False,19.0,8.0,56.0,-0.1,0.0,0.0,-0.034,7.0
+Kaleb Banks,F,80.0,220.0,So.,Georgia,,2023,Indiana,True,False,19.0,21.0,223.0,0.1,0.2,0.3,0.052,10.61904761904762
+Kalen Etzler,F,80.0,190.0,R-So.,Ohio,Crestview,2023,Ohio_State,True,False,20.0,7.0,14.0,-0.1,0.0,-0.1,-0.215,2.0
+Kamari McGee,G,72.0,180.0,Jr.,Wisconsin,,2023,Wisconsin,True,True,20.0,25.0,206.0,0.3,0.3,0.6,0.11,8.24
+Kanye Clary,G,71.0,195.0,Sophomore,Virginia,,2023,Penn_State,True,False,19.0,23.0,679.0,1.6,0.7,2.2,0.132,29.52173913043478
+Keaton Kutcher,G,74.0,200.0,Jr.,Iowa,,2023,Illinois,True,True,20.0,,,,,,,
+Keisei Tominaga,G,74.0,179.0,Senior,Japan,Ranger College,2023,Nebraska,False,True,21.0,32.0,836.0,2.3,1.1,3.4,0.162,26.125
+Kel'el Ware,C,84.0,242.0,So.,Arkansas,Oregon,2023,Indiana,True,True,19.0,30.0,965.0,2.7,1.5,4.2,0.175,32.166666666666664
+Kris Keinys,F,80.0,215.0,Fr.,Lithuania,Klaipedos Vytauto Did??iojo gimnazija,2023,Minnesota,False,False,18.0,5.0,21.0,0.0,0.0,0.0,0.083,4.2
+Ladji Dembele,F,80.0,250.0,Fr.,New Jersey,,2023,Iowa,True,False,18.0,32.0,354.0,-0.2,0.3,0.2,0.021,11.0625
+Lance Jones,G,73.0,200.0,5th,Illinois,,2023,Purdue,True,True,23.0,39.0,1116.0,2.0,1.7,3.7,0.132,28.615384615384617
+Leo O'Boyle,F,79.0,225.0,Graduate Student,Pennsylvania,Lafayette,2023,Penn_State,True,True,23.0,33.0,358.0,0.1,0.3,0.4,0.047,10.848484848484848
+Luc Laketa,G,77.0,185.0,Jr.,Michigan,Winchendon (MA),2023,Iowa,True,False,20.0,4.0,12.0,0.0,0.0,0.0,-0.005,3.0
+Lukas Sotell,G,75.0,170.0,Fr.,Connecticut,,2023,Maryland,True,False,18.0,4.0,6.0,0.0,0.0,0.0,0.186,1.5
+Luke Goode,G/F,79.0,205.0,Jr.,Indiana,,2023,Illinois,True,False,20.0,38.0,765.0,1.5,0.8,2.3,0.119,20.13157894736842
+Luke Haertle,G,76.0,215.0,R-Fr.,Wisconsin,,2023,Wisconsin,True,False,19.0,11.0,11.0,0.0,0.0,0.0,-0.126,1.0
+Luke Hunger,F,82.0,255.0,So.,Quebec,,2023,Northwestern,False,False,19.0,31.0,394.0,0.6,0.3,0.9,0.091,12.709677419354838
+Mackenzie Mgbako,F,80.0,217.0,Fr.,New Jersey,,2023,Indiana,True,False,18.0,33.0,894.0,1.4,0.7,2.0,0.091,27.09090909090909
+Mady Traore,F,83.0,195.0,So.,France,,2023,Maryland,False,True,19.0,12.0,103.0,0.0,0.1,0.1,0.05,8.583333333333334
+Mady Sissoko,C,81.0,250.0,Sr.,Mali,,2023,Michigan_State,False,False,21.0,35.0,532.0,0.5,1.1,1.6,0.123,15.2
+Malik Hall,F,80.0,220.0,Gr.,Illinois,,2023,Michigan_State,True,False,23.0,35.0,1002.0,2.6,1.5,4.1,0.165,28.62857142857143
+Malik Reneau,F,81.0,233.0,So.,Florida,,2023,Indiana,True,False,19.0,33.0,946.0,2.0,0.9,2.9,0.123,28.666666666666668
+Marcus Domask,G/F,78.0,215.0,Gr.,Wisconsin,,2023,Illinois,True,True,23.0,38.0,1312.0,3.4,1.3,4.6,0.141,34.526315789473685
+Markus Ilver,F,81.0,225.0,Jr.,Estonia,,2023,Wisconsin,False,False,20.0,27.0,160.0,0.1,0.2,0.3,0.073,5.925925925925926
+Mason Gillis,F,78.0,225.0,Sr.,Indiana,,2023,Purdue,True,False,21.0,39.0,823.0,2.3,1.0,3.3,0.162,21.102564102564106
+Matar Diop,F,82.0,213.0,Freshman,Senegal,Keystone Athletic Academy,2023,Nebraska,False,False,18.0,19.0,72.0,0.0,0.2,0.1,0.071,3.789473684210526
+Matthew Nicholson,C,84.0,280.0,Sr.,Michigan,,2023,Northwestern,True,False,21.0,29.0,646.0,1.6,0.9,2.5,0.155,22.27586206896552
+Mawot Mag,F,79.0,216.0,Sr.,Australia,,2023,Rutgers,False,False,21.0,17.0,456.0,0.0,0.9,0.9,0.076,26.823529411764707
+Max Klesmit,G,76.0,200.0,Jr.,Wisconsin,,2023,Wisconsin,True,True,20.0,36.0,1032.0,2.1,1.0,3.0,0.118,28.666666666666668
+Max Williams,G,74.0,200.0,Sr.,Illinois,,2023,Illinois,True,True,21.0,10.0,13.0,0.0,0.0,0.0,-0.07,1.3
+Mike Mitchell Jr.,G,74.0,185.0,Jr.,California,Archbishop Mitty,2023,Minnesota,True,True,20.0,,,,,,,
+Myles Colvin,G,77.0,200.0,Fr.,Indiana,,2023,Purdue,True,False,18.0,31.0,266.0,0.4,0.4,0.8,0.113,8.580645161290322
+Niccolo Moretti,G,73.0,170.0,R-Fr.,Italy,,2023,Illinois,False,False,19.0,18.0,106.0,0.1,0.1,0.3,0.095,5.888888888888889
+Nick Kern Jr.,G,78.0,200.0,Junior,Missouri,VCU,2023,Penn_State,True,True,20.0,,,,,,,
+Nick Martinelli,F,79.0,200.0,So.,Illinois,,2023,Northwestern,True,False,19.0,34.0,885.0,1.5,0.9,2.4,0.109,26.029411764705884
+Nick Sanders,G,70.0,185.0,So.,Michigan,,2023,Michigan_State,True,False,19.0,9.0,12.0,0.0,0.0,0.0,-0.001,1.3333333333333333
+Nimari Burnett,G,76.0,200.0,Gr.,Illinois,,2023,Michigan,True,True,23.0,32.0,1002.0,1.0,0.4,1.4,0.057,31.3125
+Noah Batchelor,G,78.0,185.0,So.,Maryland,,2023,Maryland,True,False,19.0,26.0,201.0,0.0,0.2,0.2,0.044,7.730769230769231
+Noah Fernandes,G,71.0,180.0,5th,Massachusetts,,2023,Rutgers,True,True,23.0,31.0,634.0,0.3,1.1,1.4,0.086,20.451612903225808
+Nolan Winter,F,83.0,220.0,Fr.,Minnesota,,2023,Wisconsin,True,False,18.0,36.0,339.0,0.5,0.4,0.8,0.097,9.416666666666666
+Olivier Nkamhoua,F,81.0,235.0,Gr.,Finland,,2023,Michigan,False,True,23.0,26.0,869.0,1.4,0.5,1.9,0.087,33.42307692307692
+Oskar Palmquist,F,80.0,220.0,R-Sr.,Sweden,,2023,Rutgers,False,False,22.0,28.0,304.0,0.3,0.5,0.8,0.107,10.857142857142858
+Owen Freeman,F,82.0,230.0,Fr.,Illinois,,2023,Iowa,True,False,18.0,34.0,778.0,2.4,1.1,3.5,0.181,22.88235294117647
+Owen Spencer,F,81.0,230.0,Sr.,Ohio,Turpin,2023,Ohio_State,True,True,21.0,2.0,6.0,0.0,0.0,0.0,-0.209,3.0
+Parker Fox,F,80.0,220.0,R-Sr.,Minnesota,Mahtomedi,2023,Minnesota,True,True,22.0,34.0,476.0,1.1,0.7,1.9,0.156,14.0
+Parker Strauss,G,75.0,180.0,Fy.,California,,2023,Northwestern,True,False,18.0,,,,,,,
+Patrick McCaffery,F,81.0,212.0,RS Sr.,Iowa,,2023,Iowa,True,False,22.0,31.0,712.0,1.0,0.4,1.4,0.076,22.967741935483872
+Payton Sandfort,F,79.0,215.0,Jr.,Iowa,,2023,Iowa,True,False,20.0,34.0,1037.0,3.4,0.9,4.3,0.164,30.5
+Payton Sparks,F,82.0,258.0,Jr.,Indiana,Ball State,2023,Indiana,True,True,20.0,24.0,176.0,0.1,0.2,0.4,0.081,7.333333333333333
+Pharrel Payne,F,81.0,255.0,So.,Minnesota,Park High School Cottage Grove,2023,Minnesota,True,False,19.0,32.0,747.0,1.4,0.9,2.4,0.126,23.34375
+Pryce Sandfort,F,78.0,205.0,Fr.,Iowa,,2023,Iowa,True,False,18.0,32.0,278.0,0.2,0.1,0.4,0.053,8.6875
+Puff Johnson,G,80.0,205.0,Senior,Pennsylvania,North Carolina,2023,Penn_State,True,True,21.0,29.0,571.0,1.3,0.7,2.0,0.138,19.689655172413797
+Qudus Wahab,F,83.0,245.0,Graduate Student,Nigeria,Georgetown/Maryland,2023,Penn_State,False,True,23.0,33.0,839.0,2.2,1.5,3.7,0.177,25.424242424242426
+Quincy Guerrier,G/F,80.0,230.0,Gr.,Quebec,,2023,Illinois,False,True,23.0,38.0,914.0,2.0,1.2,3.1,0.137,24.05263157894737
+Ramel Lloyd Jr.,G,78.0,210.0,Redshirt Freshman,California,Sierra Canyon,2023,Nebraska,True,False,19.0,,,,,,,
+RayQuawndis Mitchell,G,77.0,195.0,Graduate Student,Minnesota,Kansas City/UIC/Otero JC/Idaho,2023,Penn_State,True,True,23.0,,,,,,,
+Rienk Mast,F,82.0,248.0,Junior,Netherlands,Bradley,2023,Nebraska,False,True,20.0,32.0,951.0,1.8,1.5,3.3,0.14,29.71875
+Riley Mulvey,F,83.0,245.0,Jr.,New York,,2023,Iowa,True,False,20.0,,,,,,,
+Roddy Gayle Jr.,G,76.0,210.0,So.,New York,Lewiston-Porter,2023,Ohio_State,True,False,19.0,,,,,,,
+Ross Candelino,G,77.0,195.0,So.,Florida,,2023,Wisconsin,True,False,19.0,,,,,,,
+Ryan Langborg,G,76.0,195.0,Gr.,California,Princeton,2023,Northwestern,True,True,23.0,32.0,1066.0,2.3,1.1,3.4,0.129,33.3125
+Sam Hoiberg,G,72.0,183.0,Sophomore,Nebraska,Pius X,2023,Nebraska,True,False,19.0,34.0,669.0,0.6,1.1,1.7,0.099,19.676470588235293
+Sam King,F,80.0,220.0,So.,Indiana,,2023,Purdue,True,False,19.0,6.0,11.0,0.0,0.0,0.1,0.239,1.8333333333333333
+Scotty Middleton,G,79.0,190.0,Fr.,Florida,Sunrise Christian,2023,Ohio_State,True,False,18.0,30.0,459.0,0.4,0.5,0.8,0.072,15.3
+Sencire Harris,G,76.0,170.0,So.,Ohio,,2023,Illinois,True,False,19.0,,,,,,,
+Shaan Burke,G,77.0,195.0,Jr.,California,,2023,Indiana,True,False,20.0,1.0,1.0,0.0,0.0,0.0,-0.003,1.0
+Spencer Hutchison,G,76.0,202.0,RS Fr.,Texas,,2023,Iowa,True,False,,3.0,9.0,0.0,0.0,0.0,-0.113,3.0
+Steven Crowl,F,84.0,247.0,Jr.,Minnesota,,2023,Wisconsin,True,False,20.0,36.0,1044.0,2.9,1.2,4.1,0.159,29.0
+Steven Izzo,G,68.0,150.0,Gr.,Michigan,,2023,Michigan_State,True,False,23.0,10.0,12.0,0.0,0.0,0.0,-0.089,1.2
+Taison Chatman,G,76.0,175.0,Fr.,Minnesota,Totino-Grace,2023,Ohio_State,True,False,18.0,17.0,71.0,-0.1,0.1,-0.1,-0.041,4.176470588235294
+Tarris Reed Jr.,F,82.0,265.0,So.,Missouri,,2023,Michigan,True,False,19.0,,,,,,,
+Terrance Williams II,F,79.0,225.0,Sr.,Maryland,,2023,Michigan,True,False,21.0,,,,,,,
+Terrence Shannon Jr.,G,78.0,225.0,5th,Illinois,,2023,Illinois,True,True,23.0,,,,,,,
+Tony Perkins,G,76.0,205.0,Sr.,Indiana,,2023,Iowa,True,False,21.0,34.0,1049.0,2.2,1.0,3.2,0.121,30.852941176470587
+Tray Jackson,F,82.0,215.0,Gr.,Michigan,,2023,Michigan,True,True,23.0,28.0,435.0,0.1,0.2,0.2,0.023,15.535714285714286
+Tre Holloman,G,74.0,180.0,So.,Minnesota,,2023,Michigan_State,True,False,19.0,35.0,690.0,1.3,1.0,2.2,0.129,19.714285714285715
+Trey Galloway,G,77.0,205.0,Sr.,Indiana,,2023,Indiana,True,False,21.0,31.0,1034.0,1.0,0.7,1.7,0.067,33.354838709677416
+Trey Kaufman-Renn,F,81.0,230.0,So.,Indiana,,2023,Purdue,True,False,19.0,39.0,663.0,1.4,1.0,2.4,0.146,17.0
+Ty Berry,G,75.0,185.0,Sr.,Kansas,,2023,Northwestern,True,False,21.0,23.0,686.0,1.4,0.9,2.3,0.132,29.82608695652174
+Ty Rodgers,G/F,78.0,210.0,So.,Michigan,,2023,Illinois,True,False,19.0,38.0,863.0,1.6,1.0,2.6,0.121,22.710526315789476
+Tyler Wahl,F,81.0,225.0,Gr.,Minnesota,,2023,Wisconsin,True,False,23.0,36.0,1022.0,2.1,1.4,3.5,0.137,28.38888888888889
+Tyson Walker,G,73.0,185.0,Gr.,New York,,2023,Michigan_State,True,True,23.0,34.0,1121.0,2.7,1.9,4.6,0.163,32.97058823529412
+Will Berg,C,86.0,255.0,R-Fr.,Sweden,,2023,Purdue,False,False,19.0,14.0,52.0,0.2,0.1,0.3,0.203,3.7142857142857135
+Will Ramberg,G,77.0,205.0,Sr.,Minnesota,Cook County,2023,Minnesota,True,True,21.0,2.0,6.0,0.0,0.0,0.0,0.108,3.0
+Will Tschetter,F,80.0,245.0,R-So.,Minnesota,,2023,Michigan,True,False,20.0,31.0,554.0,1.4,0.1,1.5,0.106,17.870967741935484
+Xavier Booker,F,83.0,220.0,Fr.,Indiana,,2023,Michigan_State,True,False,18.0,27.0,249.0,0.4,0.4,0.9,0.137,9.22222222222222
+Xavier Johnson,G,75.0,200.0,R-Sr.+,Virginia,Pitt,2023,Indiana,True,True,24.0,20.0,511.0,0.1,0.4,0.5,0.042,25.55
+Youssef Khayat,F,81.0,215.0,So.,Lebanon,,2023,Michigan,False,False,19.0,17.0,99.0,0.0,0.0,0.1,0.032,5.823529411764706
+Zach Edey,C,88.0,300.0,Sr.,Ontario,,2023,Purdue,False,False,21.0,39.0,1248.0,7.9,2.6,10.5,0.336,32.0
+Zach Hayn,G,74.0,195.0,Gr.,New York,,2023,Rutgers,True,True,23.0,5.0,6.0,0.0,0.0,0.0,0.147,1.2
+Zach Hicks,F,80.0,200.0,Junior,New Jersey,Temple,2023,Penn_State,True,True,20.0,33.0,886.0,0.7,1.0,1.7,0.077,26.848484848484848
+Zed Key,F,80.0,230.0,Sr.,New York,,2023,Ohio_State,True,False,21.0,36.0,554.0,1.5,0.9,2.4,0.171,15.38888888888889

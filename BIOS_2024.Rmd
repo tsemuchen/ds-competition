@@ -1,0 +1,149 @@
+---
+title: "BIOS_2024"
+author: "James Chen"
+date: "2024-11-01"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+## R Markdown
+
+```{r}
+# read file
+players = read_csv("bio_ws.csv")
+players = players %>% rename(WS_40 = "WS/40")
+
+team = read_csv("bio_record.csv")
+```
+
+
+# Transfer Amount
+```{r}
+players %>% 
+  filter(Is_Transfer == TRUE) %>% 
+  group_by(Year) %>% 
+  summarize(n = n()) %>% 
+  ggplot(aes(x=Year, y=n)) +
+  geom_point() +
+  geom_line() +
+  scale_x_continuous(breaks = seq(min(players$Year), max(players$Year))) +
+  labs(
+    y = "Number of Players",
+    title = "Number of Tranfer Students in BigTen By Year",
+  ) +
+  theme_minimal()
+```
+
+
+# Win Share of Transfer Student
+```{r}
+#box plot
+players %>% 
+  filter(Is_Transfer == TRUE, MPG > 5) %>% 
+  select(Name, Year, Is_Transfer, WS, OWS, DWS, WS_40) %>% 
+  drop_na("WS") %>% 
+  ggplot(aes(x=Year, y=WS)) +
+  scale_x_continuous(breaks = seq(min(players$Year), max(players$Year))) +
+  geom_boxplot(aes(group = Year)) +
+  labs(
+    y = "Win Share (WS)",
+    title = "Win Share of Transfer Students By Year (MPG > 5 min)",
+  ) +
+  theme_minimal()
+```
+
+
+# density plot
+```{r}
+# median win share
+med_ws <- players %>%
+  filter(MPG > 5) %>%
+  filter(Year > 2020, Year < 2024) %>%
+  group_by(Year, Is_Transfer) %>%
+  summarize(med_WS = median(WS, na.rm = TRUE), .groups = 'drop')
+
+# Plot density with vertical median lines
+players %>% 
+  filter(MPG > 5) %>% 
+  select(Name, Year, Is_Transfer, WS) %>% 
+  drop_na(WS) %>% 
+  filter(Year > 2020, Year < 2024) %>% 
+  ggplot(aes(x = WS, fill = factor(Is_Transfer))) +
+  geom_density(alpha = 0.25) +
+  # Add vertical median lines
+  geom_vline(data = med_ws, aes(xintercept = med_WS, color = factor(Is_Transfer)), 
+             linetype = "dashed", size = 1) +
+  facet_wrap(~ Year) +
+  labs(
+    title = "Win Share of Transfer and Non-Transfer Students By Year (MPG >5 min)",
+    x = "Win Share (WS)",
+    y = "Density",
+    fill = "Transfer Status",
+    color = "Transfer Median"
+  ) +
+  theme_minimal()
+```
+
+
+#ecdf
+```{r include=FALSE}
+players %>% 
+  filter(MPG > 5) %>% 
+  select(Name, Year, Is_Transfer, WS) %>% 
+  drop_na("WS") %>% 
+  filter(Year > 2020, Year < 2024) %>% 
+  ggplot(aes(x = WS, color = Is_Transfer)) +
+  stat_ecdf(size=1.2) +
+  facet_wrap(~ Year) +
+  labs(
+    title = "Win Share of Transfer and Non-Transfer Students By Year (MPG >5 min)",
+    x = "Win Share (WS)",
+    fill = "Transfer Status"
+  )
+```
+
+
+# Team Record Analysis
+
+```{r}
+team %>%
+  group_by(transfer_amount, conf_win_rate) %>%
+  summarize(n = n()) %>%
+  ggplot(aes(x = transfer_amount, y = conf_win_rate)) +
+  geom_point(aes(color = factor(n)), size = 3) + 
+  geom_smooth(method = "lm", se = FALSE) +
+  labs(
+    title = "Conference Win Rate vs. Number of Transfer Students (2021-23)",
+    x = "Number of Transfer Students",
+    y = "Conference Win Rate",
+    color = "Number of Records"  # Change the legend for color
+  ) +
+  scale_x_continuous(breaks = scales::pretty_breaks(n = 10), labels = scales::comma_format()) +
+  scale_color_discrete() +
+  scale_color_manual(values = c("1" = "red", "2" = "brown", "3" = "black")) +
+  theme_minimal()
+```
+
+
+# Age vs. MPG
+```{r}
+players %>% 
+  drop_na(Age, MPG) %>% 
+  group_by(Age, Year) %>% 
+  summarize(mean_MPG = mean(MPG)) %>% 
+  pivot_wider(names_from = Age, values_from = mean_MPG)
+```
+
+```{r}
+players %>% 
+  drop_na(Age, Year) %>% 
+  filter(Is_Transfer == TRUE) %>% 
+  group_by(Year) %>% 
+  summarize(mean_age = mean(Age))
+```
+
+

@@ -1,0 +1,43 @@
+Team,Year,Conference Win,Conference Lose,Overall Win,Overall Lose,conf_win_rate
+Illinois,2021,15,5,23,10,0.75
+Illinois,2022,11,9,20,13,0.55
+Illinois,2023,14,6,29,9,0.7
+Indiana,2021,9,11,21,14,0.45
+Indiana,2022,12,8,23,12,0.6
+Indiana,2023,10,10,19,14,0.5
+Iowa,2021,12,8,26,10,0.6
+Iowa,2022,11,9,19,14,0.55
+Iowa,2023,10,10,19,15,0.5
+Maryland,2021,7,13,15,17,0.35
+Maryland,2022,11,9,22,13,0.55
+Maryland,2023,7,13,16,17,0.35
+Michigan,2021,11,9,19,15,0.55
+Michigan,2022,11,9,18,16,0.55
+Michigan,2023,3,17,8,24,0.15
+Michigan State,2021,11,9,23,13,0.55
+Michigan State,2022,11,8,21,13,0.5789473684210527
+Michigan State,2023,10,10,20,15,0.5
+Minnesota,2021,4,16,13,17,0.2
+Minnesota,2022,2,17,9,22,0.10526315789473684
+Minnesota,2023,9,11,19,15,0.45
+Nebraska,2021,4,16,10,22,0.2
+Nebraska,2022,9,11,16,16,0.45
+Nebraska,2023,12,8,23,11,0.6
+Northwestern,2021,7,13,15,16,0.35
+Northwestern,2022,12,8,22,12,0.6
+Northwestern,2023,12,8,22,12,0.6
+Ohio State,2021,12,8,20,12,0.6
+Ohio State,2022,5,15,16,19,0.25
+Ohio State,2023,9,11,22,14,0.45
+Penn State,2021,7,13,14,17,0.35
+Penn State,2022,10,10,23,14,0.5
+Penn State,2023,9,11,16,17,0.45
+Purdue,2021,14,6,29,8,0.7
+Purdue,2022,15,5,29,6,0.75
+Purdue,2023,17,3,34,5,0.85
+Rutgers,2021,12,8,18,14,0.6
+Rutgers,2022,10,10,19,15,0.5
+Rutgers,2023,7,13,15,17,0.35
+Wisconsin,2021,15,5,25,8,0.75
+Wisconsin,2022,9,11,20,15,0.45
+Wisconsin,2023,11,9,22,14,0.55
